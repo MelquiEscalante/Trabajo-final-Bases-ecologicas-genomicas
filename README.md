@@ -1,5 +1,5 @@
 # Trabajo-final-Bases-ecologicas-genomicas
-# Cómo el modelado de nicho ecológico histórico puede ayudar a explicar la variación genética en las poblaciones del loro cabeza amarilla (Amazona oratrix)
+# Cómo el modelado de nicho ecológico histórico puede ayudar a explicar la variación genética en las poblaciones del loro cabeza amarilla (*Amazona oratrix*)
 Se analiza la paleodistribución desde el Último Inter glacial al Presente en las poblaciones mexicanas de Amazona oratrix, empleando datos de avistamiento y capas bioclimáticas de worldclim en el periódo de 1970 al 2000.
 
 # **Introducción** 
@@ -29,5 +29,7 @@ Reconstruir la distribución histórica a través del modelado de nicho ecológi
   3. Conocer las variables ambientales que más influyen en la distribución de ambos linajes.
 
 # **Metodología**
+Para el análisis de modelación de nicho histórico se descargaron las 19 variables ambientales de Wolrdclim con temporalidades de 1970 al 2000 a través de R. 
+
 
 
