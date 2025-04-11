@@ -31,7 +31,8 @@ Reconstruir la distribución histórica a través del modelado de nicho ecológi
 # **Metodología**
 Para el análisis de modelación de nicho histórico se descargaron las 19 variables ambientales de Wolrdclim con temporalidades de 1970 al 2000 a través de R, que representan las variables ambientales al PRESENTE.
 
-´´´´r # Instalar paquete si no está instalado
+```r
+# Instalar paquete si no está instalado
 install.packages("geodata")
 install.packages("terra")
 
@@ -46,7 +47,8 @@ library(terra)
 bioclim <- worldclim_global(var = "bio", res = 2.5, path = "worldclim_data")
 
 # Mostrar información del raster
-print(bioclim)```
+print(bioclim)
+```
 
 
 
