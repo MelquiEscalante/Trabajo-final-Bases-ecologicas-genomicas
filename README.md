@@ -29,9 +29,10 @@ Reconstruir la distribución histórica a través del modelado de nicho ecológi
   3. Conocer las variables ambientales que más influyen en la distribución de ambos linajes.
 
 # **Metodología**
-Para el análisis de modelación de nicho histórico se descargaron las 19 variables ambientales de Wolrdclim con temporalidades de 1970 al 2000 a través de R, que representan las variables ambientales al PRESENTE.
+Para el análisis de modelación de nicho histórico se descargaron las 19 variables ambientales de Wolrdclim con temporalidades de 1970 al 2000 a través de R, que representan las variables ambientales al PRESENTE, posteriormente estas fueron recortadas.
 
 ```r
+# Descarga de las 19 variables ambientales de Worldclim de 1970 - 2000 a resolución 2.5 m.
 # Instalar paquete si no está instalado
 install.packages("geodata")
 install.packages("terra")
