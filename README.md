@@ -4,6 +4,7 @@ Se analiza la paleodistribución desde el Último Inter glacial al Presente en l
 
 # Instroducción: 
 El loro cabeza amarilla es una especie de psitácido que se distribuye en un conjunto de poblaciones alopátricas desde Méxio a Honduras. A lo largo de su distribución se reconocen seis subespecies, cada una de las cuales está asentada en diferentes tipos de vegetación (Howell & Webb, 1995; Fig. 1). 
+<img src="https://github.com/user-attachments/assets/13a1dcaa-69de-4476-b362-2753f4ca1cf9" alt="Demo" width="500"/>
 
 ![Fig. 1 Mapa de distribucion de Amazona oratrix y de sus subespecies](https://github.com/user-attachments/assets/13a1dcaa-69de-4476-b362-2753f4ca1cf9)
 
