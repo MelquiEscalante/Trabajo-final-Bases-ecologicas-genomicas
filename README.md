@@ -28,3 +28,6 @@ Reconstruir la distribución histórica a través del modelado de nicho ecológi
   2. Inferir como estos cambios ambientales influyeron en la composición genética actual de cada linaje.
   3. Conocer las variables ambientales que más influyen en la distribución de ambos linajes.
 
+# **Metodología**
+
+
