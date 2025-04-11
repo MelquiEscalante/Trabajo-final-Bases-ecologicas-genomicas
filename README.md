@@ -18,3 +18,11 @@ En la actualidad los estudios de modelado de nicho ecológico en la especie solo
 <img src="https://github.com/user-attachments/assets/23792b5d-7b2c-4d95-8b5e-3da7f66755c6" alt="Demo" width="700"/>
 
 **Fig. 3** Tipos de vegetación encontrados sobre la distribucion de las poblaciones mexicanas de *A. oratrix*. A) Selvas secas caducifolias encontradas sobre la vertiente del Pacífico, siendo esta la vegetación dominante en esta provincia biótica. B) Selvas tropicales húmedas sobre la vertiente del Golfo de México. 
+
+#Objetivos
+Reconstruir la distribución histórica a través del modelado de nicho ecológico para determinar si estos patrones de distribución pueden explicar la variación genética en los linajes mexicanos de *A. oratrix*.
+  Objetivos particulares
+  1. Recuperar los patrones de distribución en las poblaciones del Pacífico y Golfo de México de A. oratrix en el presente, Holoceno medio, Último Máximo Glacial y Último Inter Glacial. 
+  2. Inferir como estos cambios ambientales influyeron en la composición genética actual de cada linaje.
+  3. Conocer las variables ambientales que más influyen en la distribución de ambos linajes.
+
