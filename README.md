@@ -40,6 +40,7 @@ Todos los análisis de hicieron en R por separado, por un lado se realizaron rec
 De igual forma, para cada uno de los mapas obtenidos, en estas cuatro temporalidades, se estimó la cobertura en Km2 de la ocupación del nicho tanto para el Golfo de México como para el Pacífico considerando los pixeles ocupados en las proyecciones de idoneidad de cada mapa, en este sentido, se consideró que cada píxel tiene una superficie aproximada de 4.625 km × 4.625 km ≈ 21.4 km² en el ecuador, para el cálculo del área ocupada se consideró un humbral de presencia de 0.4 a 1 y a partir de esta consideración y del mapa generado en formato .asc se realizó el cálculo de la siguiente forma:
 
 ```r
+# Cargar el mapa de idoneidad .asc generado +
 # Definir un umbral para considerar "presencia"
 umbral <- 0.4 
 
@@ -65,10 +66,7 @@ area_ocupada_km2 <- num_pixeles_presencia * area_pixel_km2
 # Mostrar el resultado
 print(paste("El área ocupada es de", round(area_ocupada_km2, 2), "km²"))
 ```
-
-
-
-. Esto se realizó para conocer como cambiaba la extensión del nicho a lo largo del tiempo y ver si a traves de estos cambios se podría inferir si estos tuvieron efectos que expliquen los patrones de estructura al interior de cada linaje (Pacífico y Golfo de México) ilustrados en la Gif 2.
+Lo anterior se realizó para conocer como cambiaba la extensión del nicho a lo largo del tiempo y ver si a traves de estos cambios se podría inferir si estos tuvieron efectos que expliquen los patrones de estructura al interior de cada linaje (Pacífico y Golfo de México) ilustrados en la Gif 2.
 
 Todos los análisis previamente descritos fueron desarrollados en R, y algunos mapas editados en QGIS. El scrip completo empleado en R está anexo en este repositorio (https://github.com/MelquiEscalante/Trabajo-final-Bases-ecologicas-genomicas/blob/main/Scrip%20trabajo%20final.R) y puede ser reproducido cambiando las rutas particulares de tu equipo de computo, igual dependerá de la capacidad de tu máquina, ya que la mía tiene poca, solo realicé una réplica, aunque los análisi fueron también corridos independiente en el software MaxEnt para comprobar los resultados obtenidos en R.
 
