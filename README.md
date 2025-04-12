@@ -5,13 +5,13 @@ Se analiza la paleodistribución desde el Último Inter glacial al Presente en l
 # **Introducción** 
 El loro cabeza amarilla (*Amazona oratrix*) es una especie de la familia Psittacidae que se distribuye en un conjunto de poblaciones alopátricas desde Méxio a Honduras. A lo largo de su distribución se reconocen seis subespecies, cada una de las cuales está asentada en diferentes tipos de vegetación (Howell & Webb, 1995; Fig. 1). 
 
-<img src="https://github.com/user-attachments/assets/fe4fb6c5-4429-4b0d-99e7-074b3cf8b09e" alt="Demo" width="800"/>
+<img src="https://github.com/user-attachments/assets/0443d13d-a8c6-43ec-8c67-da8bacc2f3a8" alt="Demo" width="800"/>
 
 **Fig. 1** Mapa de distribucion de *Amazona oratrix* y de sus subespecies.
 
 A pesar de esta caracteristica, de que esta especie ocupa una amplia variedad de ecosistemas, los estudios de modelado de nicho ecológico solo se restrigen a unos pocos en los que se evalúan su distribución potencial para algunas regiones muy particulares del país como en la península de Yucatán (Plasencia-Vázquez et al. 2014), y por otro lado existen otros estudios en los que se evalúa la contracción de sus poblaciones por efecto de la deforestación y sus consecuencias sobre la disponibilidad de nicho existente en la actualidad (Monterrubio-Rico et al. 2007). Particularmente los estudios sobre paleodistribución en el loro cabeza amarilla son escazos, por lo que considerando ese vacío en la información y los resultados previos de un estudio sobre estructura genética mitocondrial en las poblaciones Mexicanas de *A. oratrix* en el que se encontró una divergencia profunda entre las poblaciones del Pacífico y las del Golfo de México, delimitada por al menos 26 sustituciones (Escalante-Vargas & Escalante-Pliego, en prensa; Fig. 2), y considerando que estos dos conjuntos de poblaciones estan asentadas sobre provincias bióticas distintas, en la que, sobre el pacífico predomina la selva seca caducifolia y subcaducifolia, mientras que en el Golfo de México las selvas tropicales húmedas (Escalante-Pliego et al. 1993; Fig. 3). El objetivo de este trabajo se centra en inferir como ha evolucionado el nicho desde el último inter glacial al presente y como estos cambios pudieron haber influido en la estructura genética mitocondrial en las poblaciones de esta especie.
 
-<img src="https://github.com/user-attachments/assets/79a00d71-7a6c-428f-bded-167113b480d4" alt="Demo" width="700"/>
+<img src="https://github.com/user-attachments/assets/a6c5c9e0-4997-4173-b1fd-639208f8dafa" alt="Demo" width="700"/>
 
 **Fig. 2** Haplogrupos encontrados al analizar las poblaciones de *Amazona oratrix* a través de los genes mitocondriales COI y ND2. En verde el haplogrupo que incluye a las poblaciones del Pacífico, y en amarilla el haplogrupo en el que se incluyen las poblaciones de la vertiente del Atlántico incluidas las poblaciones del Golfo de México (Escalante-Vargas & Escalante-Pliego, en prensa).
 
