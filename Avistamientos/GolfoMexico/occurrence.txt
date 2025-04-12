@@ -1,0 +1,899 @@
+gbifID	verbatimScientificName	decimalLatitude	decimalLongitude			stateProvince	county	municipality	locality
+976577564	Amazona oratrix	18.827383	-98.94667			Morelos	Cuautla		"Callejón Reforma, Cuautla"
+972019792	Amazona oratrix	18.919415	-99.217636			Morelos	Cuernavaca		Hosteria Las Quintas
+958387012	Amazona oratrix	18.930008	-99.215744			Morelos	Cuernavaca		MX/Mor- Cuernavaca- Vista Hermosa
+945279911	Amazona oratrix	19.190142	-99.85551			Estado de México	Temascaltepec		El Mapa
+891146634	Amazona oratrix tresmariae	21.690139	-106.582855			Nayarit			
+891126048	Amazona oratrix	17.606797	-88.475974			Belize			
+891115567	Amazona oratrix	23.562161	-97.727205			Tamaulipas			
+819650040	Amazona oratrix	19.291977	-99.09634			Ciudad de México	Xochimilco		Parque Ecológico de Xochimilco
+5024037860	Amazona oratrix	17.407322	-88.176834						UTM50_16Q_0350_1900
+4440780667	Amazona oratrix	18.382104	-92.022693			Campeche			
+4405272765	Amazona oratrix	17.97587	-92.235635			Tabasco			
+4315957458	Amazona oratrix	18.998465	-99.10058			Morelos	Tepoztlán		Camino al Tepozteco
+4314965928	Amazona oratrix	19.311144	-99.11107			Ciudad de México	Coyoacán		Eje 3 Ote y Clz de las Bombas
+4295725870	Amazona oratrix	19.31333	-99.198906			Ciudad de México	Coyoacán		"CCH Sur, UNAM."
+4266275503	Amazona oratrix	20.676765	-87.05108			Quintana Roo	Solidaridad		Playa Del Carmen
+4260145392	Amazona oratrix	20.85917	-90.4			Yucatán	Celestún		Celestun
+4242862504	Amazona oratrix	20.676765	-87.12798			Quintana Roo	Solidaridad		Playa Del Carmen
+4179343099	Amazona oratrix	20.607557	-87.0927			Quintana Roo	Solidaridad		"Xaman Ha Aviary, Playa del Carmen, Mexico"
+4179328562	Amazona oratrix	19.298874	-99.18899			Ciudad de México	Tlalpan		Deportivo Villa Olimpica
+4179238873	Amazona oratrix	19.31608	-99.1921			Ciudad de México	Coyoacán		Reserva Ecológica del Pedregal de San Angel
+4179222782	Amazona oratrix	19.31608	-99.1921			Ciudad de México	Coyoacán		Reserva Ecológica del Pedregal de San Angel
+4179179090	Amazona oratrix	19.31608	-99.1921			Ciudad de México	Coyoacán		Reserva Ecológica del Pedregal de San Angel
+4179124699	Amazona oratrix	23.442692	-106.58245			Sinaloa	Mazatlán		Campamento Tortuguero El Verde Camacho
+4179123018	Amazona oratrix	19.31608	-99.1921			Ciudad de México	Coyoacán		Reserva Ecológica del Pedregal de San Angel
+4179094115	Amazona oratrix	19.31608	-99.1921			Ciudad de México	Coyoacán		Reserva Ecológica del Pedregal de San Angel
+4179092113	Amazona oratrix	19.31608	-99.1921			Ciudad de México	Coyoacán		Reserva Ecológica del Pedregal de San Angel
+4179090646	Amazona oratrix	21.179201	-101.68708			Guanajuato	León		Parque Ecológico Metropolitano de León
+4179074808	Amazona oratrix	19.31608	-99.1921			Ciudad de México	Coyoacán		Reserva Ecológica del Pedregal de San Angel
+4169279536	Amazona oratrix	16.45139	-94.62972			Oaxaca	SANTO DOMINGO ZANATEPEC		"150 m Rio Zapote, Rancho Chepenegro"
+4169261357	Amazona oratrix	15.98333	-97.71667			Oaxaca			Parque Nal Lagunas de Chacahua
+4169243806	Amazona oratrix	15.98333	-97.71667			Oaxaca			Parque Nal Lagunas de Chacahua
+4169234057	Amazona oratrix	15.98333	-97.71667			Oaxaca			Parque Nal Lagunas de Chacahua
+4169222701	Amazona oratrix								
+4168696727	Amazona oratrix								NO DISPONIBLE
+3988443694	Amazona oratrix	17.740082	-88.636258			Orange Walk			
+3858827095	Amazona oratrix	17.657826	-88.643541			Orange Walk			
+3764188538	Amazona oratrix	16.884879	-95.09694			Oaxaca			
+3306367955	Amazona oratrix					Campeche	CARMEN		"Boca chica, 9.6 km al SE de los Gavilanes, 8.5 km al N de Ribera El Carrizal, Ciudad del Carmen, Campeche"
+3306367919	Amazona oratrix					Campeche	CARMEN		"1 km al O de Los Corralitos, 1.6 km al E de Cuatro de Mayo, Palizada"
+3306367609	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306367556	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306367364	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306367273	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306367208	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306366856	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306366806	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306366730	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306366425	Amazona oratrix					Campeche	CARMEN		"El Aguacatal, 6.0 km al SE de Nuevo Campechito, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306366307	Amazona oratrix					Campeche	CARMEN		"El Aguacatal, 6.0 km al SE de Nuevo Campechito, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306366225	Amazona oratrix					Campeche	CARMEN		"Rancho R1, 3.5 km al SO de Calax, 19.8 km al SO de Sabancuy, camino de terracería Calax-R1"
+3306366179	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306365960	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306365935	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306365855	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306365841	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306365821	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306365813	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306365741	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306365734	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306365306	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306365182	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306365070	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306365050	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306364706	Amazona oratrix					Campeche	CARMEN		"Camino Palizada, 5.2 km al SE de Atasta, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306364644	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306364103	Amazona oratrix					Campeche	CARMEN		"Camino Palizada, 5.2 km al SE de Atasta, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306363823	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306363568	Amazona oratrix					Campeche	CARMEN		"Estero Sabancuy III, 700 metros (59°) al NE de la Iglesia frente a la plaza central de Sabancuy"
+3306363475	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306363315	Amazona oratrix					Campeche	CARMEN		"Rancho San Francisco, 3.7 km al NO de Sabancuy, sobre la carretera Champotón-Ciudad del Carmen"
+3306363269	Amazona oratrix					Campeche	CARMEN		"El Aguacatal, 6.0 km al SE de Nuevo Campechito, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306363240	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306363122	Amazona oratrix					Campeche	CARMEN		"1 km al O de Los Corralitos, 1.6 km al E de Cuatro de Mayo, Palizada"
+3306363101	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306363100	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306363055	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306363031	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306363009	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306362957	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306362955	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306362631	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306362560	Amazona oratrix					Campeche	CARMEN		"El Aguacatal, 6.0 km al SE de Nuevo Campechito, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306362431	Amazona oratrix					Campeche	PALIZADA		"Las Bodegas, 4.5 km al NE de El Mangal, 1.76 km al O de Las Bodegas, al borde del Río Palizada"
+3306362240	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306362217	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306361816	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306361562	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306361535	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306361163	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306360894	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306360869	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306360615	Amazona oratrix					Campeche	CARMEN		"El Aguacatal, 6.0 km al SE de Nuevo Campechito, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306360606	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306360583	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306360074	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306360004	Amazona oratrix					Campeche	PALIZADA		"Las Bodegas, 4.5 km al NE de El Mangal, 1.76 km al O de Las Bodegas, al borde del Río Palizada"
+3306359962	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306359956	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306359628	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306359578	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306359421	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306359147	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306359108	Amazona oratrix					Campeche	PALIZADA		"Las Bodegas, 4.5 km al NE de El Mangal, 1.76 km al O de Las Bodegas, al borde del Río Palizada"
+3306359045	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306358902	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306358837	Amazona oratrix					Campeche	CARMEN		"Rancho R1, 3.5 km al SO de Calax, 19.8 km al SO de Sabancuy, camino de terracería Calax-R1"
+3306358769	Amazona oratrix					Campeche	CARMEN		"1 km al O de Los Corralitos, 1.6 km al E de Cuatro de Mayo, Palizada"
+3306358622	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306357975	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306357885	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306357693	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306357610	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306357590	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306357401	Amazona oratrix					Campeche	CARMEN		"Camino Palizada, 5.2 km al SE de Atasta, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306356975	Amazona oratrix					Campeche	CARMEN		"El Aguacatal, 6.0 km al SE de Nuevo Campechito, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306356938	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306356866	Amazona oratrix					Campeche	CARMEN		"Tres Brazos, 4.0 km al NO de Puerto Rico, al norte de la carretera Ciudad del Carmen-Villahermosa"
+3306356865	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306356768	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306356578	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306356142	Amazona oratrix					Campeche	CARMEN		"Camino Palizada, 5.2 km al SE de Atasta, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306355902	Amazona oratrix					Campeche	CARMEN		"El Aguacatal, 6.0 km al SE de Nuevo Campechito, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306355858	Amazona oratrix					Campeche	CARMEN		"El Aguacatal, 6.0 km al SE de Nuevo Campechito, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306355710	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306355166	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306355075	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306354792	Amazona oratrix					Campeche	CARMEN		"Camino Palizada, 5.2 km al SE de Atasta, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306354763	Amazona oratrix					Campeche	CARMEN		"El Aguacatal, 6.0 km al SE de Nuevo Campechito, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306354016	Amazona oratrix					Campeche	CARMEN		"Laguna Pom I, 9.0 km al SW de Atasta"
+3306353987	Amazona oratrix					Campeche	PALIZADA		"Las Bodegas, 4.5 km al NE de El Mangal, 1.76 km al O de Las Bodegas, al borde del Río Palizada"
+3306353961	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306353759	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306353671	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306352898	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306352576	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306352240	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306352115	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306351967	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306351938	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306351924	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306351834	Amazona oratrix					Campeche	CARMEN		"Camino Palizada, 5.2 km al SE de Atasta, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306351821	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306351736	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306351733	Amazona oratrix					Campeche	CARMEN		"Camino Palizada, 5.2 km al SE de Atasta, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306351655	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306351436	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306351331	Amazona oratrix					Campeche	CARMEN		"Rancho San Francisco, 3.7 km al NO de Sabancuy, sobre la carretera Champotón-Ciudad del Carmen"
+3306351190	Amazona oratrix					Campeche	CARMEN		"Camino Palizada, 5.2 km al SE de Atasta, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306351129	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306350962	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306350951	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306350841	Amazona oratrix					Campeche	PALIZADA		"1 km al NE de San Román, 4.7 km al NO de La Loma, sobre carretera Santa Adelaida-Palizada"
+3306350792	Amazona oratrix					Campeche	PALIZADA		"La Toza, 661 m al O de El Borbotón, 3.6 km al S del Paraíso, carretera Palizada-Jonuta"
+3306350621	Amazona oratrix					Campeche	PALIZADA		"Las Bodegas, 4.5 km al NE de El Mangal, 1.76 km al O de Las Bodegas, al borde del Río Palizada"
+3306350435	Amazona oratrix					Campeche	PALIZADA		"Plan del Carmen, 5.9 km al NE de Santa Isabel, a 5 km al N de San Juan, carretera Palizada-Plan del Carmen"
+3306350420	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306350390	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306350336	Amazona oratrix					Campeche	CARMEN		"Nicté-ha_Santa Gertrudis, 6 km al NO del Mameyal y 15.6 km al E de El Porvenir, Ciudad del Carmen"
+3306350311	Amazona oratrix					Campeche	CARMEN		"Camino Palizada, 5.2 km al SE de Atasta, sobre la carretera federal Ciudad del Carmen-Villahermosa"
+3306244830	Amazona oratrix	20.141111	-101.165833			Guanajuato	URIANGATO		"Uriangato, 2 km E"
+3118243482	Amazona oratrix	17.757994	-88.550262			Belize			
+3079763303	Amazona oratrix	19.385589	-96.467125			Veracruz			
+3079690303	Amazona oratrix	19.314469	-96.555125			Veracruz			
+3079631304	Amazona oratrix	19.347976	-96.518156			Veracruz			
+3039460794	Amazona oratrix tresmariae	21.67627	-106.651494			Nayarit			
+2634613035	Amazona oratrix	18.3589	-95.361301			Veracruz			
+2630717339	Amazona oratrix	22.6	-100.683333			San luis potosi			El Salto
+2630716306	Amazona oratrix	19.201667	-104.685			Jalisco			"BARRA DE NAVIDAD, 13 KM N"
+2630707540	Amazona oratrix	23.783333	-97.766667			Tamaulipas			LA PESCA
+2630697276	Amazona oratrix	17.858333	-91.996667			Chiapas			"EL CUYO, N DE CATAZAJA, (A LO LARGO DEL CAMINO)"
+2629798606	Amazona oratrix	22.278611	-98.895278			San luis potosi	CIUDAD VALLES		Rancho La Hormiga 1
+2629797434	Amazona oratrix	22.227222	-98.951667			San luis potosi	CIUDAD VALLES		2043 m al Estenoreste del Centro de Cultura para la Conservación
+2629796788	Amazona oratrix	22.271389	-98.951667			San luis potosi	CIUDAD VALLES		6000 m al Este de entrada Las Yeguas
+2629796006	Amazona oratrix	22.278611	-98.894722			San luis potosi	CIUDAD VALLES		Rancho La Hormiga 2
+2629795719	Amazona oratrix	22.271111	-98.953055			San luis potosi	CIUDAD VALLES		6066 m al Nornordeste del Centro para la Cultura de la Conservación
+2629795448	Amazona oratrix	22.2275	-98.950555			San luis potosi	CIUDAD VALLES		2327 m al Estenoreste del Centro de Cultura para la Conservación
+2629793580	Amazona oratrix	22.280833	-98.895			San luis potosi	CIUDAD VALLES		Rancho La Hormiga 3
+2620000030	Amazona oratrix	16.759315	-88.583464			Stann Creek			
+2609123701	Amazona oratrix	18.452128	-92.572863			Tabasco			
+2609098983	Amazona oratrix	18.471951	-93.108454			Tabasco			
+2571359562	Amazona oratrix					Stann Creek			"Southern Highway, Kendal"
+2563569394	Amazona oratrix	22.913227	-97.800305			Tamaulipas			
+2563523315	Amazona oratrix	22.863761	-97.90951			Tamaulipas			
+2563519510	Amazona oratrix	22.953875	-97.811524			Tamaulipas			
+2563519315	Amazona oratrix	22.888473	-97.865495			Tamaulipas			
+2563519297	Amazona oratrix	22.810746	-97.952919			Tamaulipas			
+2563519258	Amazona oratrix	22.836414	-97.861459			Tamaulipas			
+2563518573	Amazona oratrix	22.945361	-97.891199			Tamaulipas			
+2563513113	Amazona oratrix	22.952471	-97.857802			Tamaulipas			
+2563511783	Amazona oratrix	22.94317	-97.808436			Tamaulipas			
+2563511230	Amazona oratrix	22.949719	-97.976117			Tamaulipas			
+2549995523	Amazona oratrix	17.686609	-88.642611			Orange Walk			
+2429621379	Amazona oratrix	23.513261	-97.75485			Tamaulipas			
+229733799	Amazona oratrix	21.165043	-101.7025			Guanajuato	León		Club Campestre de Leon
+2275308449	Amazona oratrix	16.1598	-88.763496			Toledo			Starcher PC 2
+2275308363	Amazona oratrix	16.163401	-88.763901			Toledo			Starcher PC 4
+2275307991	Amazona oratrix	16.1581	-88.763298			Toledo			Starcher PC 1
+2275306828	Amazona oratrix	16.271799	-88.733002			Toledo			Block 127 PC 1
+2275306757	Amazona oratrix	16.2789	-88.731903			Toledo			Block 127 PC 5
+2275306724	Amazona oratrix	16.271799	-88.733002			Toledo			Block 127 PC 1
+2275306722	Amazona oratrix	16.2771	-88.732201			Toledo			Block 127 PC 4
+2275306706	Amazona oratrix	16.2736	-88.732803			Toledo			Block 127 PC 2
+2275306684	Amazona oratrix	16.271799	-88.733002			Toledo			Block 127 PC 1
+2275306296	Amazona oratrix	16.2736	-88.732803			Toledo			Block 127 PC 2
+2275306275	Amazona oratrix	16.280701	-88.731697			Toledo			Block 127 PC 6
+2275305604	Amazona oratrix	16.2789	-88.731903			Toledo			Block 127 PC 5
+2275305496	Amazona oratrix	16.280701	-88.731697			Toledo			Block 127 PC 6
+2275305487	Amazona oratrix	16.275299	-88.732498			Toledo			Block 127 PC 3
+2275305438	Amazona oratrix	16.2736	-88.732803			Toledo			Block 127 PC 2
+2275305395	Amazona oratrix	16.2736	-88.732803			Toledo			Block 127 PC 2
+2275289138	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275289096	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275289091	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275289081	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275289070	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275289047	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275289023	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275288985	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275288959	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275288958	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275288952	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275288936	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275288926	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275288923	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288919	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288897	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275288878	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275288861	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275288858	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275288857	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275288856	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288850	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275288829	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275288819	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275288808	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275288777	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275288773	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275288768	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288753	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288746	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275288745	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275288738	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275288727	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275288723	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288710	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275288703	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275288696	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275288640	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275288639	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288633	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288595	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275288540	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288536	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275288447	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275288397	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275288393	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288389	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275288370	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275288356	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288341	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288319	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275288316	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275288291	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275288286	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288269	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275288268	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275288236	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288225	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275288208	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288170	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275288165	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288160	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275288155	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275288152	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288135	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275288108	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275288080	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275288043	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275288023	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275288019	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275288016	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275288007	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275287994	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275287987	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275287984	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275287983	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287979	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275287976	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275287966	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275287963	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275287957	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275287941	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275287936	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275287916	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275287912	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275287881	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287873	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275287872	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275287869	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287858	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275287838	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275287836	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275287821	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275287806	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275287792	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287758	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275287752	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275287689	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287684	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275287677	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275287650	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275287646	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275287594	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287556	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275287551	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275287545	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287524	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275287493	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275287477	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275287462	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275287427	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287408	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275287373	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275287353	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275287341	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275287331	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287312	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275287306	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287302	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275287298	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287289	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275287249	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275287237	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275287229	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275287225	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275287222	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275287221	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275287217	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275287216	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287197	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287160	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275287128	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287117	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275287101	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275287100	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275287091	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275287079	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287074	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275287073	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287066	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275287065	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275287061	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275287060	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275287057	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275287040	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275287011	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275287002	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275286996	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275286984	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275286980	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275286966	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275286964	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275286962	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275286941	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275286915	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275286914	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275286905	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275286875	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275286864	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275286837	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275286818	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275286807	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275286804	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275286784	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275286781	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275286762	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275286760	Amazona oratrix	16.3764	-88.593697			Toledo			PCNP-PC 6
+2275286749	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275286734	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275286708	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275286654	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275286616	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275286592	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275286571	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275286562	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275286559	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275286558	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275286554	Amazona oratrix	16.372801	-88.5895			Toledo			PCNP-PC 3
+2275286552	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275286545	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275286517	Amazona oratrix	16.370501	-88.5868			Toledo			PCNP-PC 1
+2275286491	Amazona oratrix	16.371599	-88.588203			Toledo			PCNP-PC 2
+2275286442	Amazona oratrix	16.374001	-88.590897			Toledo			PCNP-PC 4
+2275286440	Amazona oratrix	16.3752	-88.5923			Toledo			PCNP-PC 5
+2275286192	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275286065	Amazona oratrix	16.533011	-88.721405			Toledo			BNR3-800
+2275286012	Amazona oratrix	16.536444	-88.717051			Toledo			BNR3-200
+2275285979	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275285931	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275285853	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275285844	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275285716	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275285600	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275285167	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275285140	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275284886	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275284875	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275284861	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275284840	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275284789	Amazona oratrix	16.536444	-88.717051			Toledo			BNR3-200
+2275284768	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275284597	Amazona oratrix	16.536444	-88.717051			Toledo			BNR3-200
+2275284568	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275284518	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275284514	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275284513	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275284496	Amazona oratrix	16.536444	-88.717051			Toledo			BNR3-200
+2275284454	Amazona oratrix	16.533011	-88.721405			Toledo			BNR3-800
+2275284446	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275284330	Amazona oratrix	16.328127	-88.785166			Toledo			GSCP9-800
+2275284281	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275284260	Amazona oratrix	16.533011	-88.721405			Toledo			BNR3-800
+2275284178	Amazona oratrix	16.536444	-88.717051			Toledo			BNR3-200
+2275284165	Amazona oratrix	16.533011	-88.721405			Toledo			BNR3-800
+2275284126	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275284066	Amazona oratrix	16.536444	-88.717051			Toledo			BNR3-200
+2275284054	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275283951	Amazona oratrix	16.533011	-88.721405			Toledo			BNR3-800
+2275283868	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275283796	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275283765	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275283759	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275283712	Amazona oratrix	16.328127	-88.785166			Toledo			GSCP9-800
+2275283701	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275283691	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275283675	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275283668	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275283644	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275283642	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275283592	Amazona oratrix	16.536444	-88.717051			Toledo			BNR3-200
+2275283553	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275283506	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275283485	Amazona oratrix	16.536444	-88.717051			Toledo			BNR3-200
+2275283482	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275283410	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275283371	Amazona oratrix	16.34411	-88.783383			Toledo			GSCP2-400
+2275283334	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275283333	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275283289	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275283242	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275283194	Amazona oratrix	16.330981	-88.783236			Toledo			GSCP9-400
+2275283150	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275283138	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275283097	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275283027	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275282953	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275282942	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275282939	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275282890	Amazona oratrix	16.536444	-88.717051			Toledo			BNR3-200
+2275282871	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275282862	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275282855	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275282841	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275282764	Amazona oratrix	16.536444	-88.717051			Toledo			BNR3-200
+2275282741	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275282739	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275282680	Amazona oratrix	16.536444	-88.717051			Toledo			BNR3-200
+2275282673	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275282665	Amazona oratrix	16.34411	-88.783383			Toledo			GSCP2-400
+2275282566	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275282500	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275282497	Amazona oratrix	16.409972	-88.801826			Toledo			CRFR3-400
+2275282470	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275282455	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275282397	Amazona oratrix	16.548959	-88.724854			Toledo			BNR2-1000
+2275282367	Amazona oratrix	16.533011	-88.721405			Toledo			BNR3-800
+2275282300	Amazona oratrix	16.411232	-88.805545			Toledo			CRFR3-800
+2275282226	Amazona oratrix	16.533011	-88.721405			Toledo			BNR3-800
+2275282219	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275282201	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275282172	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275282166	Amazona oratrix	16.536444	-88.717051			Toledo			BNR3-200
+2275282119	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275282116	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275282064	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275282036	Amazona oratrix	16.409895	-88.800327			Toledo			CRFR3-200
+2275282000	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275281990	Amazona oratrix	16.533011	-88.721405			Toledo			BNR3-800
+2275281947	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275281901	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275281895	Amazona oratrix	16.547692	-88.721817			Toledo			BNR2-600
+2275281890	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275281878	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275281817	Amazona oratrix	16.536444	-88.717051			Toledo			BNR3-200
+2275281794	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275281707	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275281703	Amazona oratrix	16.547986	-88.723346			Toledo			BNR2-800
+2275281664	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275281660	Amazona oratrix	16.547843	-88.719963			Toledo			BNR2-400
+2275281657	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275281646	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275281641	Amazona oratrix	16.533011	-88.721405			Toledo			BNR3-800
+2275281632	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275281625	Amazona oratrix	16.34418	-88.78154			Toledo			GSCP2-600
+2275281608	Amazona oratrix	16.548285	-88.716744			Toledo			BNR2-000
+2275281601	Amazona oratrix	16.531859	-88.722988			Toledo			BNR3-1000
+2275281582	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275281571	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275281569	Amazona oratrix	16.410995	-88.798502			Toledo			CRFR3-000
+2275281565	Amazona oratrix	16.409972	-88.801826			Toledo			CRFR3-400
+2275281526	Amazona oratrix	16.411232	-88.805545			Toledo			CRFR3-800
+2275281519	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275281483	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275281426	Amazona oratrix	16.536444	-88.717051			Toledo			BNR3-200
+2275281423	Amazona oratrix	16.534179	-88.719964			Toledo			BNR3-600
+2275281404	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275281385	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275281346	Amazona oratrix	16.410545	-88.803535			Toledo			CRFR3-600
+2275281336	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275281296	Amazona oratrix	16.412225	-88.806808			Toledo			CRFR3-1000
+2275281241	Amazona oratrix	16.410995	-88.798502			Toledo			CRFR3-000
+2275281146	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275281001	Amazona oratrix	16.331778	-88.810578			Toledo			IV1-800
+2275280992	Amazona oratrix	16.344331	-88.787175			Toledo			GSCP2-1000
+2275280978	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275280969	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275280782	Amazona oratrix	16.537595	-88.715638			Toledo			BNR3-000
+2275280643	Amazona oratrix	16.344049	-88.785226			Toledo			GSCP2-200
+2275280633	Amazona oratrix	16.419999	-88.782116			Toledo			CRFR4-600
+2275280476	Amazona oratrix	16.387163	-88.835474			Toledo			CRFR1-000
+2275280475	Amazona oratrix	16.535275	-88.71854			Toledo			BNR3-400
+2275280031	Amazona oratrix	16.410351	-88.846607			Toledo			CRFR2-000
+2275278869	Amazona oratrix	16.2262	-88.841003			Toledo			Kern's PC 6
+2243701722	Amazona oratrix oratrix	18.0024	-94.5653						"Minatitlan, refineria de SAnta Alejandrina, Veracruz"
+2243700409	Amazona oratrix oratrix	18.0024	-94.5653						"Minatitlan, refineria de SAnta Alejandrina, Veracruz"
+2243688304	Amazona oratrix	18.0024	-94.5653						"Minatitlan, refineria de SAnta Alejandrina, Veracruz"
+2243672394	Amazona oratrix oratrix	18.0024	-94.5653						"Minatitlan, refineria de SAnta Alejandrina, Veracruz"
+2243635321	Amazona oratrix	23.666667	-97.7						"La Pesca area, Tamaulipas"
+2243634492	Amazona oratrix	23.666667	-97.7						"La Pesca area, Tamaulipas"
+2243634287	Amazona oratrix	23.666667	-97.7						"La Pesca area, Tamaulipas"
+2243633819	Amazona oratrix	23.666667	-97.7						"La Pesca area, Tamaulipas"
+2243569358	Amazona oratrix	18.0024	-94.5653						"Minatitlan, refineria de SAnta Alejandrina, Veracruz"
+2006057352	Amazona oratrix tresmariae	21.497803	-106.404582			Nayarit			
+1897579147	Amazona oratrix	18.035999	-102.060997			Guerrero	LA UNION DE ISIDORO MONTES DE OCA		"6 Km N, 4.7 Km E Petacalco"
+1897579125	Amazona oratrix	18.035999	-102.060997			Guerrero	LA UNION DE ISIDORO MONTES DE OCA		"6 Km N, 4.7 Km E Petacalco"
+1897564389	Amazona oratrix	18.623195	-92.507515			Tabasco	CENTLA		Ejido Nuevo Centla
+1897564388	Amazona oratrix	18.01104	-93.013084			Tabasco	CENTRO		Lázaro Cárdenas
+1897564386	Amazona oratrix	15.846944	-96.870556			Oaxaca	SANTA MARIA COLOTEPEC		Este de Agua Fría
+1897564370	Amazona oratrix	16.315278	-97.605278			Oaxaca	SANTIAGO TETEPEC		Parte alta Río Verde Tututepec
+1897564369	Amazona oratrix	23.013889	-97.905556			Tamaulipas	ALDAMA		Brecha de Pemex entre Aldama y Barra del Tordo
+1897564367	Amazona oratrix	18.249306	-102.149			Michoacan de ocampo	ARTEAGA		El Cofre
+1897564360	Amazona oratrix	15.883889	-96.972222			Oaxaca	SANTA MARIA COLOTEPEC		Santa María Colotepec
+1897564353	Amazona oratrix	18.155194	-102.310333			Michoacan de ocampo	LAZARO CARDENAS		Rancho El Habillo
+1897564352	Amazona oratrix	18.458794	-92.214381			Campeche	CARMEN		Atasta
+1897564348	Amazona oratrix	18.302222	-102.493056			Michoacan de ocampo	ARTEAGA		barranca blanca
+1897564346	Amazona oratrix	21.886889	-98.138889			Veracruz de ignacio de la llave	PANUCO		El Higueron
+1897564345	Amazona oratrix	18.260639	-102.138528			Michoacan de ocampo	ARTEAGA		El Cofre
+1897564341	Amazona oratrix	18.098611	-101.708333			Guerrero	COAHUAYUTLA DE JOSE MARIA IZAZAGA		Colmeneros
+1897564338	Amazona oratrix	16.070278	-97.894722			Oaxaca	SANTIAGO JAMILTEPEC		Cerro La Tuza
+1897564336	Amazona oratrix	18.613903	-92.524311			Tabasco	CENTLA		Ejido Nuevo Centla
+1897564334	Amazona oratrix	18.235139	-102.176			Michoacan de ocampo	LAZARO CARDENAS		Las Trojes
+1897564333	Amazona oratrix	17.759572	-93.904982			Tabasco	HUIMANGUILLO		Ejido Francisco Villa
+1897564330	Amazona oratrix	18.385895	-92.270696			Tabasco	JONUTA		Ranchería Pino Suárez
+1897564329	Amazona oratrix	15.891361	-96.197944			Oaxaca	SAN MIGUEL DEL PUERTO		Camino al Río Copalita
+1897564327	Amazona oratrix	18.239139	-102.168139			Michoacan de ocampo	LAZARO CARDENAS		La arboleda de Rogelio
+1897564326	Amazona oratrix	18.296194	-102.085444			Michoacan de ocampo	ARTEAGA		La Barranca del Tigre
+1897564324	Amazona oratrix	18.253556	-102.154333			Michoacan de ocampo	ARTEAGA		El Zacatón
+1897564322	Amazona oratrix	17.49409	-91.607833			Tabasco	EMILIANO ZAPATA		Ejido La Pita
+1897564320	Amazona oratrix	18.252	-102.501806			Michoacan de ocampo	ARTEAGA		los Pozos
+1897564319	Amazona oratrix	18.379455	-93.026478			Tabasco	JALPA DE MENDEZ		"Granja de tortugas, La Encantada"
+1897564318	Amazona oratrix	16.331944	-98.022222			Oaxaca	SANTIAGO PINOTEPA NACIONAL		"Río La Arena, Pinotepa Nacional"
+1897564316	Amazona oratrix	16.475	-98.275			Oaxaca	SANTIAGO LLANO GRANDE		"Río Grande, Puerto Escondido"
+1897564314	Amazona oratrix	18.211083	-102.501278			Michoacan de ocampo	ARTEAGA		Plan de Armas
+1897564313	Amazona oratrix	18.288889	-102.466889			Michoacan de ocampo	ARTEAGA		los Pozos
+1897564309	Amazona oratrix	18.065306	-102.514361			Michoacan de ocampo	LAZARO CARDENAS		San José de los Pinos
+1897564308	Amazona oratrix	18.263583	-102.5105			Michoacan de ocampo	ARTEAGA		los Pozos
+1897564307	Amazona oratrix	17.772891	-91.342911			Tabasco	BALANCAN		Cascadas de Reforma
+1897564304	Amazona oratrix	16.21	-97.619722			Oaxaca	VILLA DE TUTUTEPEC DE MELCHOR OCAMPO		E Río Verde
+1897564303	Amazona oratrix	18.239333	-102.154972			Michoacan de ocampo	ARTEAGA		La arboleda de Rogelio
+1897564302	Amazona oratrix	17.657966	-91.925605			Chiapas	PALENQUE		Rancho Tres Hermanos
+1897564300	Amazona oratrix	18.34684	-92.235227			Tabasco	JONUTA		Poblado Jesús María Pino Suárez
+1897564299	Amazona oratrix	18.102	-102.395083			Michoacan de ocampo	LAZARO CARDENAS		Rancho La Bonetera
+1897564298	Amazona oratrix	18.453686	-92.843439			Tabasco	CENTLA		Ejido Las Sabanas de Villa Vicente Guerrero
+1897564297	Amazona oratrix	17.772991	-91.346098			Tabasco	BALANCAN		Cascadas de Reforma
+1897564296	Amazona oratrix	17.805583	-92.174267			Tabasco	MACUSPANA		Ría Corralillo 1ra sección
+1897564294	Amazona oratrix	18.304066	-92.226578			Tabasco	JONUTA		Ejido 10 de Abril
+1897564293	Amazona oratrix	16.071944	-97.6225			Oaxaca	VILLA DE TUTUTEPEC DE MELCHOR OCAMPO		Santa Rosa de Lima
+1897564292	Amazona oratrix	18.206389	-102.016944			Michoacan de ocampo	ARTEAGA		Paso la Goleta
+1897564290	Amazona oratrix	17.764371	-91.794571			Chiapas	PALENQUE		Ejido Calatrava
+1897564289	Amazona oratrix	18.223056	-103.084167			Michoacan de ocampo	AQUILA		Cuilala
+1897564288	Amazona oratrix	18.300972	-102.494833			Michoacan de ocampo	ARTEAGA		barranca blanca
+1897564287	Amazona oratrix	15.824722	-96.072778			Oaxaca	SANTA MARIA HUATULCO		Santa Cruz Huatulco
+1897564286	Amazona oratrix	16.154444	-95.441667			Oaxaca	SANTO DOMINGO TEHUANTEPEC		Loma Atravesada
+1897564285	Amazona oratrix	16.016944	-97.758056			Oaxaca	VILLA DE TUTUTEPEC DE MELCHOR OCAMPO		Lagunas de Chacahua
+1897564282	Amazona oratrix	18.286389	-103.351389			Michoacan de ocampo	AQUILA		Maruata
+1897564281	Amazona oratrix	18.020928	-93.00103			Tabasco	CENTRO		Lázaro Cárdenas
+1897564280	Amazona oratrix	18.143333	-102.5175			Michoacan de ocampo	ARTEAGA		Encino Barrido
+1897564279	Amazona oratrix	22.908889	-97.847222			Tamaulipas	ALDAMA		Rancho Los Colorados
+1897564278	Amazona oratrix	15.908333	-96.246389			Oaxaca	SANTA MARIA HUATULCO		Santa Clara
+1897564277	Amazona oratrix	18.218611	-102.246667			Michoacan de ocampo	LAZARO CARDENAS		El Guayabo
+1897564276	Amazona oratrix	19.474722	-105.025556			Jalisco	LA HUERTA		Cerro Colorado
+1897564274	Amazona oratrix	18.339082	-93.002924			Tabasco	CENTLA		Ejido San Juan
+1897564273	Amazona oratrix	19.487778	-105.038333			Jalisco	LA HUERTA		Antiguo sur Chamela
+1897564272	Amazona oratrix	18.243667	-102.166667			Michoacan de ocampo	ARTEAGA		El Zacatón
+1897564270	Amazona oratrix	18.333056	-103.462778			Michoacan de ocampo	AQUILA		Motín del Oro
+1897564269	Amazona oratrix	17.311556	-95.052222			Oaxaca	MATIAS ROMERO AVENDAÑO		San Gabriel
+1897564267	Amazona oratrix	17.185306	-95.114056			Oaxaca	SAN JUAN GUICHICOVI		Puente salida de Chiapas
+1897564266	Amazona oratrix	15.998889	-97.773056			Oaxaca	VILLA DE TUTUTEPEC DE MELCHOR OCAMPO		Lagunas de Chacahua
+1897564265	Amazona oratrix	17.763211	-93.903774			Tabasco	HUIMANGUILLO		Ejido Francisco Villa
+1897564264	Amazona oratrix	16.758056	-97.991389			Oaxaca	SANTA MARIA ZACATEPEC		Santa María Zapoteca
+1897564263	Amazona oratrix	15.858056	-96.74			Oaxaca	SANTA MARIA TONAMECA		Norte de Río Cosoltepec
+1897564261	Amazona oratrix	18.620895	-92.512641			Tabasco	CENTLA		Ejido Nuevo Centla
+1897564260	Amazona oratrix	18.034332	-92.984477			Tabasco	NACAJUCA		Lázaro Cárdenas
+1897564259	Amazona oratrix	18.231667	-102.017778			Michoacan de ocampo	ARTEAGA		La Huerta
+1897564258	Amazona oratrix	18.092139	-102.407611			Michoacan de ocampo	LAZARO CARDENAS		Rancho La Bonetera
+1897564257	Amazona oratrix	17.743333	-94.780556			Veracruz de ignacio de la llave	TEXISTEPEC		Carretera a Minatitlán
+1897564256	Amazona oratrix	18.303468	-92.210912			Tabasco	JONUTA		Poblado Jesús María Pino Suárez
+1897564255	Amazona oratrix	18.098611	-102.617778			Michoacan de ocampo	LAZARO CARDENAS		Chuquiapan
+1897564254	Amazona oratrix	17.823282	-92.179224			Tabasco	MACUSPANA		Ría Corralillo 1ra sección
+1897564253	Amazona oratrix	23.638333	-98.363056			Tamaulipas	SOTO LA MARINA		"La Esperanza, Sierra de Manatínes carretera Soto La Marina a Ciudad Victoria"
+1897564252	Amazona oratrix	18.095556	-102.393056			Michoacan de ocampo	LAZARO CARDENAS		Rancho La Bonetera
+1897564251	Amazona oratrix	15.828056	-96.074722			Oaxaca	SAN MIGUEL DEL PUERTO		Santa Cruz Huatulco
+1897564250	Amazona oratrix	18.26275	-102.499917			Michoacan de ocampo	ARTEAGA		los Pozos
+1897564249	Amazona oratrix	17.475	-100.576111			Guerrero	TECPAN DE GALEANA		Puerto cano
+1897564248	Amazona oratrix	16.196944	-97.647222			Oaxaca	VILLA DE TUTUTEPEC DE MELCHOR OCAMPO		Camino al N de Tututepec
+1897564247	Amazona oratrix	18.850556	-101.635			Michoacan de ocampo	CHURUMUCO		Ojo de Agua
+1897564246	Amazona oratrix	23.015556	-97.901944			Tamaulipas	ALDAMA		Brecha de Pemex entre Aldama y Barra del Tordo
+1897564245	Amazona oratrix	17.486389	-100.559722			Guerrero	TECPAN DE GALEANA		Puerto La Vela
+1897564244	Amazona oratrix	16.418889	-95.437778			Oaxaca	SANTA MARIA JALAPA DEL MARQUES		Presa Benito Juárez
+1897564242	Amazona oratrix	15.9225	-96.174444			Oaxaca	SAN MIGUEL DEL PUERTO		San Miguel del Puerto
+1897564241	Amazona oratrix	16.020278	-97.673056			Oaxaca	VILLA DE TUTUTEPEC DE MELCHOR OCAMPO		Lagunas de Chacahua
+1897564240	Amazona oratrix	18.100556	-102.394167			Michoacan de ocampo	LAZARO CARDENAS		Rancho La Bonetera
+1897564239	Amazona oratrix	16.174444	-97.62			Oaxaca	VILLA DE TUTUTEPEC DE MELCHOR OCAMPO		Camino al N de Tututepec
+1897564238	Amazona oratrix	18.428949	-92.256359			Tabasco	JONUTA		Ejido Hidalgo
+1897564237	Amazona oratrix	18.370588	-93.027906			Tabasco	JALPA DE MENDEZ		"Granja de tortugas, La Encantada"
+1897564236	Amazona oratrix	18.261028	-102.129111			Michoacan de ocampo	ARTEAGA		El río para el risco cuate
+1897564234	Amazona oratrix	18.284222	-102.074528			Michoacan de ocampo	ARTEAGA		El Zapotillo
+1897564232	Amazona oratrix	18.101917	-102.404139			Michoacan de ocampo	LAZARO CARDENAS		Rancho La Bonetera
+1897564231	Amazona oratrix	18.254111	-102.153167			Michoacan de ocampo	ARTEAGA		El Zacatón
+1897564230	Amazona oratrix	18.169194	-102.318111			Michoacan de ocampo	LAZARO CARDENAS		Rancho El Habillo
+1897564229	Amazona oratrix	18.311667	-103.396389			Michoacan de ocampo	AQUILA		Colola
+1897564228	Amazona oratrix	23.865833	-99.241111			Tamaulipas	VICTORIA		"Cañón de Caballeros, Ejido Santa Ana"
+1897564227	Amazona oratrix	18.032222	-101.747778			Guerrero	LA UNION DE ISIDORO MONTES DE OCA		"La Junta de los ríos, Coahuayutla"
+1897564226	Amazona oratrix	18.383089	-93.024235			Tabasco	JALPA DE MENDEZ		"Granja de tortugas, La Encantada"
+1897564225	Amazona oratrix	17.410389	-95.071722			Veracruz de ignacio de la llave	JESUS CARRANZA		Eugenio Méndez Docurro
+1897564224	Amazona oratrix	22.895	-97.848611			Tamaulipas	ALDAMA		Rancho Los Colorados
+1897564223	Amazona oratrix	16.026389	-95.663889			Oaxaca	SAN PEDRO HUAMELULA		San Pedro Huamelula
+1897564222	Amazona oratrix	23.561667	-98.040278			Tamaulipas	SOTO LA MARINA		San José de las Rusias
+1897564221	Amazona oratrix	16.305556	-95.411111			Oaxaca	SANTO DOMINGO TEHUANTEPEC		CAJON DE PIEDRA
+1897564220	Amazona oratrix	17.916944	-101.793056			Guerrero	LA UNION DE ISIDORO MONTES DE OCA		Cerro de Chutla
+1897564219	Amazona oratrix	16.081389	-97.801111			Oaxaca	SANTIAGO JAMILTEPEC		Cordón montañoso al sur de Jamiltepec
+1897564218	Amazona oratrix	16.028333	-95.685			Oaxaca	SAN PEDRO HUAMELULA		San Pedro Huamelula
+1897564217	Amazona oratrix	18.27	-102.515833			Michoacan de ocampo	ARTEAGA		los Pozos
+1897564215	Amazona oratrix	15.820556	-96.064167			Oaxaca	SAN MIGUEL DEL PUERTO		Santa Cruz Huatulco
+1897564214	Amazona oratrix	19.498389	-105.043028			Jalisco	LA HUERTA		Tejón Chamela
+1897564213	Amazona oratrix	18.388436	-92.259222			Tabasco	JONUTA		Ranchería Pino Suárez
+1897564212	Amazona oratrix	18.345556	-103.448611			Michoacan de ocampo	AQUILA		Motín del Oro
+1897564211	Amazona oratrix	16.198333	-97.877778			Oaxaca	SANTA MARIA HUAZOLOTITLAN		Cordón montañoso al sur de Jamiltepec
+1897564210	Amazona oratrix	21.700667	-98.300083			Veracruz de ignacio de la llave	PANUCO		Mesa Larga
+1897564209	Amazona oratrix	15.924722	-95.934722			Oaxaca	SAN PEDRO HUAMELULA		San Isidro Chacalapa
+1897564208	Amazona oratrix	15.893889	-96.6825			Oaxaca	SAN AGUSTIN LOXICHA		Norte de Río Cosoltepec
+1897564207	Amazona oratrix	21.799167	-99.275556			San luis potosi	TAMASOPO		Esperanza
+1897564206	Amazona oratrix	18.247639	-102.518472			Michoacan de ocampo	ARTEAGA		Plan de Armas
+1897564205	Amazona oratrix	16.204444	-97.521389			Oaxaca	VILLA DE TUTUTEPEC DE MELCHOR OCAMPO		Camino al N de Tututepec
+1897564204	Amazona oratrix	18.475278	-103.534167			Michoacan de ocampo	AQUILA		Río Ostula
+1897564203	Amazona oratrix	18.137778	-102.518889			Michoacan de ocampo	ARTEAGA		La Hulera
+1897564202	Amazona oratrix	16.166667	-97.533333			Oaxaca	VILLA DE TUTUTEPEC DE MELCHOR OCAMPO		Santa Cruz Tututepec
+1897564201	Amazona oratrix	17.136361	-95.062167			Oaxaca	MATIAS ROMERO AVENDAÑO		Matías Romero
+1897564200	Amazona oratrix	18.620884	-92.515532			Tabasco	CENTLA		Ejido Nuevo Centla
+1897564199	Amazona oratrix	15.893889	-96.959167			Oaxaca	SANTA MARIA COLOTEPEC		Santa María Colotepec
+1897564196	Amazona oratrix	17.662196	-91.929096			Chiapas	PALENQUE		Rancho Tres Hermanos
+1897564195	Amazona oratrix	18.250222	-102.139722			Michoacan de ocampo	ARTEAGA		los Pozos
+1897564194	Amazona oratrix	23.630278	-98.38			Tamaulipas	SOTO LA MARINA		"El Sabinito, Sierra de Maratines carretera Soto la Marina a Ciudad Victoria"
+1897564193	Amazona oratrix	18.090278	-102.407222			Michoacan de ocampo	LAZARO CARDENAS		Rancho La Bonetera
+1897564192	Amazona oratrix	18.346667	-103.4425			Michoacan de ocampo	AQUILA		Motín del Oro
+1897564191	Amazona oratrix	18.510789	-92.749985			Tabasco	CENTLA		Felipe Carrillo Puerto
+1897564190	Amazona oratrix	23.770833	-98.558889			Tamaulipas	CASAS		Ejido Gildardo Magaña
+1897564189	Amazona oratrix	15.775	-96.098889			Oaxaca	SANTA MARIA HUATULCO		Tangolunda
+1897564188	Amazona oratrix	16.182222	-97.531111			Oaxaca	VILLA DE TUTUTEPEC DE MELCHOR OCAMPO		Santa Ana Tututepec
+1897564187	Amazona oratrix	18.233611	-102.9975			Michoacan de ocampo	AQUILA		HUAHUA
+1897564186	Amazona oratrix	15.988333	-95.671944			Oaxaca	SANTIAGO ASTATA		Santiago Astata
+1897564185	Amazona oratrix	17.813113	-92.176903			Tabasco	MACUSPANA		Ría Corralillo 1ra sección
+1897564184	Amazona oratrix	18.2525	-103.2425			Michoacan de ocampo	AQUILA		Cachán
+1897564183	Amazona oratrix	18.149722	-101.702444			Guerrero	COAHUAYUTLA DE JOSE MARIA IZAZAGA		El Naranjo
+1897564182	Amazona oratrix	18.241917	-102.155944			Michoacan de ocampo	ARTEAGA		El Zacatón
+1897564181	Amazona oratrix	18.467962	-92.211167			Campeche	CARMEN		Atasta
+1897564180	Amazona oratrix	16.038611	-95.967778			Oaxaca	SAN CARLOS YAUTEPEC		San Miguel Chongos
+1897564179	Amazona oratrix	18.303333	-102.49425			Michoacan de ocampo	ARTEAGA		barranca blanca
+1897564178	Amazona oratrix	18.269417	-102.007694			Michoacan de ocampo	ARTEAGA		"Ejido Los Copales, La Higuera Gacha"
+1897564177	Amazona oratrix	18.018889	-101.840278			Guerrero	LA UNION DE ISIDORO MONTES DE OCA		Rincón Cucharatepec
+1897564176	Amazona oratrix	19.512389	-105.037028			Jalisco	LA HUERTA		Chamela
+1897564175	Amazona oratrix	16.15	-97.811944			Oaxaca	SANTIAGO JAMILTEPEC		Sur de poblado El Platanillo
+1897564174	Amazona oratrix	22.896389	-97.838333			Tamaulipas	ALDAMA		Rancho Los Colorados
+1897564172	Amazona oratrix	16.338056	-98.050833			Oaxaca	SANTIAGO PINOTEPA NACIONAL		Pinotepa
+1897564170	Amazona oratrix	18.193611	-102.439167			Michoacan de ocampo	ARTEAGA		Mesa de Estrada
+1897564168	Amazona oratrix	16.171667	-97.735833			Oaxaca	SANTIAGO JAMILTEPEC		Rio Verde
+1897564167	Amazona oratrix	18.310631	-92.241045			Tabasco	JONUTA		Ejido 10 de Abril
+1897564166	Amazona oratrix	18.271	-102.12825			Michoacan de ocampo	ARTEAGA		"Barranca del Corral, Los Tulitos"
+1897564165	Amazona oratrix	15.757778	-96.803333			Oaxaca	SANTA MARIA TONAMECA		Oeste de poblado Tlachicon
+1897564164	Amazona oratrix	18.432711	-92.299711			Tabasco	JONUTA		Ranchería El Tamarindo
+1897564163	Amazona oratrix	16.101944	-95.518333			Oaxaca	SANTO DOMINGO TEHUANTEPEC		Santa Clara
+1897564162	Amazona oratrix	15.819722	-96.063333			Oaxaca	SAN MIGUEL DEL PUERTO		Parque Nacional Huatulco
+1897564161	Amazona oratrix	18.091111	-102.395833			Michoacan de ocampo	LAZARO CARDENAS		Rancho La Bonetera
+1897564160	Amazona oratrix	18.236111	-102.021333			Michoacan de ocampo	ARTEAGA		"Rincón Viejo, Las Huertas"
+1897564158	Amazona oratrix	18.25025	-102.132639			Michoacan de ocampo	ARTEAGA		El Cofre
+1897564157	Amazona oratrix	16.418889	-95.418333			Oaxaca	SANTA MARIA JALAPA DEL MARQUES		Presa Benito Juárez
+1897564156	Amazona oratrix	16.166944	-97.719167			Oaxaca	VILLA DE TUTUTEPEC DE MELCHOR OCAMPO		Rio Verde
+1897564155	Amazona oratrix	22.860556	-99.363889			Tamaulipas	OCAMPO		Rancho El Saucillo
+1897564153	Amazona oratrix	18.359334	-92.236308			Tabasco	JONUTA		Ranchería Pino Suárez
+1897564152	Amazona oratrix	15.921944	-96.9375			Oaxaca	SANTA MARIA COLOTEPEC		"Pasando Cuixtla, Río Colotepec"
+1897564151	Amazona oratrix	17.759904	-91.794157			Chiapas	PALENQUE		Ejido Calatrava
+1897564147	Amazona oratrix	18.301361	-102.493889			Michoacan de ocampo	ARTEAGA		barranca blanca
+1897564145	Amazona oratrix	23.854167	-99.250278			Tamaulipas	VICTORIA		Cañón de Santa Ana
+1897564140	Amazona oratrix	17.7745	-95.043944			Veracruz de ignacio de la llave	SAYULA DE ALEMAN		Finca Lorena
+1897564136	Amazona oratrix	17.105389	-95.043556			Oaxaca	SAN JUAN GUICHICOVI		Las Malvinas
+1897564134	Amazona oratrix	17.401389	-100.587222			Guerrero	TECPAN DE GALEANA		Los Morenos
+1897564132	Amazona oratrix	18.252222	-102.26			Michoacan de ocampo	ARTEAGA		Buenavistita
+1897564131	Amazona oratrix	17.783056	-101.231111			Guerrero	PETATLAN		La Tigra
+1897564127	Amazona oratrix	18.252667	-102.5125			Michoacan de ocampo	ARTEAGA		los Pozos
+1897564126	Amazona oratrix	17.439552	-91.56317			Tabasco	TENOSIQUE		Ría Corralillo 1ra sección
+1897564124	Amazona oratrix	17.425278	-100.780278			Guerrero	TECPAN DE GALEANA		Puerto Los Pitales
+1897564121	Amazona oratrix	18.189167	-101.785778			Guerrero	COAHUAYUTLA DE JOSE MARIA IZAZAGA		El Platanito
+1897564119	Amazona oratrix	17.282222	-100.614722			Guerrero	TECPAN DE GALEANA		La Tigra
+1897564111	Amazona oratrix	18.259194	-102.010944			Michoacan de ocampo	ARTEAGA		"Ejido Los Copales, La Higuera Gacha"
+1897564104	Amazona oratrix	18.174167	-102.514722			Michoacan de ocampo	ARTEAGA		San José de los Pinos
+1897564081	Amazona oratrix	17.204167	-94.747917			Veracruz de ignacio de la llave	UXPANAPA		"Carolino Anaya 1, Poblado Uno"
+1897564075	Amazona oratrix	18.37227	-93.022586			Tabasco	JALPA DE MENDEZ		Ranchería Reforma 2da Sección
+1895606028	Amazona oratrix	23.218978	-98.440911			Tamaulipas	LLERA		"El Chijol, Sierra de Tamaulipas"
+1895606008	Amazona oratrix	23.566667	-98.483333			Tamaulipas	CASAS		"Rancho la Palma, carreterra soto la marina victoria, km 31"
+1895605984	Amazona oratrix	23.370886	-98.135761			Tamaulipas	SOTO LA MARINA		Ejido La Peña
+1895605967	Amazona oratrix	23.628056	-98.375556			Tamaulipas	SOTO LA MARINA		El Sabinito
+1894877965	Amazona oratrix					Tamaulipas	GOMEZ FARIAS		Cabecera municipal de Gómez Farías
+1894865031	Amazona oratrix	21.234722	-98.103333			Veracruz de ignacio de la llave			NO DISPONIBLE. LOCALIZACIÓN: BRECHA  QUE COMUNICA A LA CARRETERA  TANTOYUCA-TUXPAN  CON LA SIERRA DE ONTONTEPEC A 18 KM DE LA ENTRADA. DIRECCION: OESTE. DISTANCIA: 100
+1894865020	Amazona oratrix	21.835278	-98.25			Tamaulipas			EL PAPALOTE. LOCALIZACIÓN: RANCHO EL PAPALOTE SOBRE EL CAMINO DE CHICAYAN A 15 KM. ANTES DE LA SALIDA A CARRETERA NACIONAL. DIRECCION: OESTE. DISTANCIA: 80
+1894865013	Amazona oratrix	21.615	-98.301667			Veracruz de ignacio de la llave			"EL MAGUEY. LOCALIZACIÓN: ENTRADA HORCON POTRERO EL MAGUEY SOBRE LA CARRETERA PANUCO- TEMPOAL A 20KM SOBRE TERRACERIA, AREA DE RANCHOS GANADEROS Y EJIDOS. DIRECCION: NTE. DISTANCIA: 300"
+1894865009	Amazona oratrix								NO DISPONIBLE
+1894865005	Amazona oratrix	22.911111	-97.847222			Tamaulipas	ALDAMA		LOS COLORADOS
+1894864976	Amazona oratrix								NO DISPONIBLE
+1894864971	Amazona oratrix	25.925	-98.18			Tamaulipas			"KM 24 ALDAMA-BARRA DEL TORDO. LOCALIZACIÓN: KM 24 CAMINO ALDAMA- BARRA DEL TORDO, FRENTE A CORRAL MADERA. DIRECCION: OESTE. DISTANCIA: 250"
+1894864967	Amazona oratrix	23.795	-99.25			Tamaulipas	VICTORIA		NO DISPONIBLE
+1894864965	Amazona oratrix								NO DISPONIBLE
+1894864957	Amazona oratrix	24.033333	-99.23			Tamaulipas			EL MORON. LOCALIZACIÓN: ENTRADA AL MORON. DIRECCION: NTE. DISTANCIA: 100
+1894864950	Amazona oratrix	22.911111	-97.847222			Tamaulipas	ALDAMA		LOS COLORADOS
+1894864948	Amazona oratrix								NO DISPONIBLE
+1894864942	Amazona oratrix	22.911111	-97.847222			Tamaulipas	ALDAMA		LOS COLORADOS
+1894864938	Amazona oratrix								NO DISPONIBLE
+1894864936	Amazona oratrix								NO DISPONIBLE
+1894864935	Amazona oratrix								NO DISPONIBLE
+1894864931	Amazona oratrix								NO DISPONIBLE
+1894864930	Amazona oratrix	21.838333	-98.221667			Tamaulipas			"PRESA CHICAYAN. LOCALIZACIÓN: ENTRADA PRESA CHICAYAN, TERRACERIA 10 KM, DESPUES CARRETERA NAC. DIRECCION: ESTE. DISTANCIA: 800"
+1894864920	Amazona oratrix	21.546389	-98.389722			Veracruz de ignacio de la llave	TEMPOAL		"TANCHACLOCO. LOCALIZACIÓN: RANCHO TANCHACLOCO, CARRETERA PANUCO TEMPOAL. DIRECCION: OESTE. DISTANCIA: 800"
+1894864916	Amazona oratrix								NO DISPONIBLE
+1894864915	Amazona oratrix								NO DISPONIBLE
+1894864907	Amazona oratrix	22.911111	-97.847222			Tamaulipas	ALDAMA		LOS COLORADOS
+1894864898	Amazona oratrix	22.916667	-97.97			Tamaulipas			NO DISPONIBLE. LOCALIZACIÓN: KM 14 DE LA CARRETERA ALDAMA-BARRA DEL TORDO. DIRECCION: SURESTE. DISTANCIA: 50
+1894864895	Amazona oratrix	22.911111	-97.847222			Tamaulipas	ALDAMA		LOS COLORADOS
+1894864894	Amazona oratrix	22.911111	-97.847222			Tamaulipas	ALDAMA		LOS COLORADOS
+1894864893	Amazona oratrix								NO DISPONIBLE
+1894864889	Amazona oratrix	22.911111	-97.847222			Tamaulipas	ALDAMA		LOS COLORADOS
+1894864878	Amazona oratrix	21.72	-98.37			Veracruz de ignacio de la llave			"RANCHO EL LINDERO. LOCALIZACIÓN: CARRETERA PANUCO-TEMPOAL, ENTRADA RANCHO EL LINDERO. DIRECCION: ESTE"
+1894864876	Amazona oratrix	22.916667	-97.97			Tamaulipas			NO DISPONIBLE. LOCALIZACIÓN: KM 14 DE LA CARRETERA ALDAMA-BARRA DEL TORDO. DIRECCION: OESTE. DISTANCIA: 500
+1894864866	Amazona oratrix	22.916667	-97.97			Tamaulipas			NO DISPONIBLE. LOCALIZACIÓN: KM 14 DE LA CARRETERA ALDAMA-BARRA DEL TORDO. DIRECCION: OESTE. DISTANCIA: 1000
+1894864865	Amazona oratrix	21.835278	-98.25			Tamaulipas			EL PAPALOTE. DIRECCION: SUR. DISTANCIA: 20
+1894864864	Amazona oratrix	21.835278	-98.25			Tamaulipas			EL PAPALOTE. DIRECCION: SUR. DISTANCIA: 120
+1894864856	Amazona oratrix								NO DISPONIBLE
+1894864855	Amazona oratrix	21.835278	-98.25			Tamaulipas			EL PAPALOTE. DIRECCION: SUR. DISTANCIA: 80
+1894864850	Amazona oratrix	22.911111	-97.847222			Tamaulipas	ALDAMA		LOS COLORADOS
+1894864848	Amazona oratrix	22.916667	-97.97			Tamaulipas			NO DISPONIBLE. LOCALIZACIÓN: KM 14 DE LA CARRETERA ALDAMA-BARRA DEL TORDO. DIRECCION: NOROESTE. DISTANCIA: 1000
+1894864839	Amazona oratrix	21.838333	-98.221667			Tamaulipas			"PRESA CHICAYAN. LOCALIZACIÓN: ENTRADA PRESA CHICAYAN, TERRACERIA 10 KM, DESPUES CARRETERA NAC. DIRECCION: OESTE. DISTANCIA: 500"
+1894864834	Amazona oratrix					Tamaulipas			CAMINO BARRA DEL TORDO. LOCALIZACIÓN: CAMINO BARRA DEL TORDO. DIRECCION: ESTE. DISTANCIA: 150
+1894864827	Amazona oratrix	21.655	-98.334167			Veracruz de ignacio de la llave			EL MAGUEY. DIRECCION: SUR. DISTANCIA: 50
+1894864823	Amazona oratrix								NO DISPONIBLE
+1894864820	Amazona oratrix	25.9	-98.01			Tamaulipas			RANCHO ESTRELLA. LOCALIZACIÓN: CAMINO ALDAMA BARRA DEL TORDO RANCHO ESTRELLA. DIRECCION: OESTE. DISTANCIA: 1000
+1894864811	Amazona oratrix	25.883333	-97.77			Tamaulipas			"RANCHO EL ANZUELO. LOCALIZACIÓN: KM. 36, CAMINO ALDAMA-BARRA DEL TORDO, FRENTE AL RANCHO EL ANZUELO. DIRECCION: SURESTE. DISTANCIA: 180"
+1894864799	Amazona oratrix								NO DISPONIBLE
+1894864791	Amazona oratrix	22.911111	-97.847222			Tamaulipas	ALDAMA		LOS COLORADOS
+1894864772	Amazona oratrix	21.835278	-98.25			Tamaulipas			EL PAPALOTE. DIRECCION: OESTE. DISTANCIA: 40
+1894864742	Amazona oratrix	21.838333	-98.221667			Tamaulipas			"PRESA CHICAYAN. LOCALIZACIÓN: ENTRADA PRESA CHICAYAN, TERRACERIA 10 KM, DESPUES CARRETERA NAC. DIRECCION: NTE. DISTANCIA: 350"
+1894864689	Amazona oratrix								NO DISPONIBLE
+1894864651	Amazona oratrix	22.911111	-97.847222			Tamaulipas	ALDAMA		LOS COLORADOS
+1894437900	Amazona oratrix	18.979722	-90.068333			Campeche	CHAMPOTON		"Reserva Estatal 'Balamkin'. Aguada 'El Danto', 23.5 km al Este de la carretera Melchor Ocampo - Chilam Balam"
+1894437895	Amazona oratrix	18.814444	-89.301111			Campeche	CALAKMUL		"Unión 20 de Junio (La Mancolona), 0.8 km al NorOeste del Poblado"
+1894437874	Amazona oratrix	18.964167	-90.054722			Campeche	CHAMPOTON		"Reserva Estatal 'Balamkin'. Aguada 'El Danto', 22.4 km al Este de la carretera Melchor Ocampo - Chilam Balam"
+1894437831	Amazona oratrix	18.979722	-90.068333			Campeche	CHAMPOTON		"Reserva Estatal 'Balamkin'. Aguada 'El Danto', 23.5 km al Este de la carretera Melchor Ocampo - Chilam Balam"
+1894437789	Amazona oratrix	18.616351	-91.967278			Campeche	CARMEN		"Puerto Rico, 3 Km al Oeste del Poblado"
+1894437766	Amazona oratrix	18.996111	-90.035833			Campeche	CHAMPOTON		"Reserva Estatal 'Balamkin'. Aguada 'El Danto', 27 km al Este de la carretera Melchor Ocampo - Chilam Balam"
+1894216585	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216559	Amazona oratrix	18.06	-102.673611			Michoacan de ocampo	LAZARO CARDENAS		"Playa La Soledad, mpio. de Lázaro Cárdenas, Mich."
+1894216533	Amazona oratrix	18.311667	-103.401389			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Bajo, Ladera Derecha"
+1894216519	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216510	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216506	Amazona oratrix	18.3475	-103.46			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transeco Bajo Derecho"
+1894216504	Amazona oratrix	18.274722	-103.328333			Michoacan de ocampo	AQUILA		"36km SSE Aquila, Maruata, Barranca de Amador"
+1894216496	Amazona oratrix	18.319722	-103.393056			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Alto, Planicie"
+1894216495	Amazona oratrix	18.320833	-103.397222			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Alto, Ladera Derecha"
+1894216494	Amazona oratrix	18.344444	-103.444167			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transecto Alto Planicie"
+1894216493	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216491	Amazona oratrix	18.625556	-103.684722			Michoacan de ocampo	COAHUAYANA		San Telmo
+1894216487	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216483	Amazona oratrix	18.347778	-103.460833			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transeco Bajo Derecho"
+1894216482	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216480	Amazona oratrix	18.625556	-103.684722			Michoacan de ocampo	COAHUAYANA		San Telmo
+1894216479	Amazona oratrix	18.322222	-103.465833			Michoacan de ocampo	AQUILA		"Mich., Mpio. de Aquila 'Motín del Oro', 28 y 4km, Aquila"
+1894216478	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216476	Amazona oratrix	18.086944	-102.761389			Michoacan de ocampo	LAZARO CARDENAS		NO Caleta de Campos
+1894216472	Amazona oratrix	18.322222	-103.465833			Michoacan de ocampo	AQUILA		"Mich., Mpio. de Aquila 'Motín del Oro', 28 y 4km, Aquila"
+1894216469	Amazona oratrix	18.313889	-103.3975			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Bajo, Ladera Derecha"
+1894216467	Amazona oratrix	18.345	-103.455556			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transeco Bajo Derecho"
+1894216466	Amazona oratrix	18.274722	-103.328333			Michoacan de ocampo	AQUILA		"36km SSE Aquila, Maruata, Barranca de Amador"
+1894216463	Amazona oratrix	18.359167	-103.451944			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transecto Bajo Izquierdo"
+1894216462	Amazona oratrix	18.3175	-103.452222			Michoacan de ocampo	AQUILA		"Arroyo Ximapa, Transecto Planicie"
+1894216458	Amazona oratrix	18.314167	-103.4			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Bajo, Ladera Derecha"
+1894216453	Amazona oratrix	18.341667	-103.358333			Michoacan de ocampo	AQUILA		"Barranca de Las Campanas, 8 km N Maruata"
+1894216452	Amazona oratrix	18.342778	-103.455556			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transecto bajo planicie"
+1894216451	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216450	Amazona oratrix	18.310556	-103.4425			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Colola. 30.5km SSE Aquila"
+1894216449	Amazona oratrix	18.342778	-103.455556			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transecto bajo planicie"
+1894216448	Amazona oratrix	18.344167	-103.4575			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transeco Bajo Derecho"
+1894216447	Amazona oratrix	18.344722	-103.444167			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transecto Alto Izquierdo"
+1894216445	Amazona oratrix	18.343056	-103.451389			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transecto bajo planicie"
+1894216444	Amazona oratrix	18.283333	-103.372222			Michoacan de ocampo	AQUILA		"Maruata, camino al Tapén"
+1894216442	Amazona oratrix	18.32	-103.391944			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Alto, Planicie"
+1894216441	Amazona oratrix	18.118333	-102.801944			Michoacan de ocampo	LAZARO CARDENAS		Río El Bordonal
+1894216440	Amazona oratrix	18.318611	-103.395833			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Alto, Ladera Derecha"
+1894216439	Amazona oratrix	18.322222	-103.390278			Michoacan de ocampo	AQUILA		Barranca Coaxuchil = Huazuchi
+1894216436	Amazona oratrix	18.077222	-102.756389			Michoacan de ocampo	LAZARO CARDENAS		Caleta de Campos
+1894216435	Amazona oratrix	18.625556	-103.684722			Michoacan de ocampo	COAHUAYANA		San Telmo
+1894216434	Amazona oratrix	18.625556	-103.684722			Michoacan de ocampo	COAHUAYANA		San Telmo
+1894216433	Amazona oratrix	18.06	-102.673611			Michoacan de ocampo	LAZARO CARDENAS		"Playa La Soledad, mpio. de Lázaro Cárdenas, Mich."
+1894216432	Amazona oratrix	18.317222	-103.395			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Alto, Ladera Derecha"
+1894216431	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216427	Amazona oratrix	18.351389	-103.441944			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transecto Alto Derecho"
+1894216426	Amazona oratrix	18.321944	-103.391667			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Alto, Planicie"
+1894216424	Amazona oratrix	18.314444	-103.398889			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Bajo, Ladera Derecha"
+1894216421	Amazona oratrix	18.337778	-103.458889			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transecto bajo planicie"
+1894216419	Amazona oratrix	18.344167	-103.4575			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transeco Bajo Derecho"
+1894216418	Amazona oratrix	18.323056	-103.453333			Michoacan de ocampo	AQUILA		"Arroyo Ximapa, Transecto Ladera Derecha"
+1894216417	Amazona oratrix	18.302778	-103.397778			Michoacan de ocampo	AQUILA		"Río Colola, Transecto bajo, Ladera Izquierda"
+1894216416	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216413	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216412	Amazona oratrix	18.314444	-103.398889			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Bajo, Ladera Derecha"
+1894216411	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216409	Amazona oratrix	18.315833	-103.452778			Michoacan de ocampo	AQUILA		"Arroyo Ximapa, Transecto Planicie"
+1894216408	Amazona oratrix	18.118889	-102.819167			Michoacan de ocampo	LAZARO CARDENAS		Río El Bordonal
+1894216407	Amazona oratrix	18.305556	-103.391944			Michoacan de ocampo	AQUILA		"Río Colola, Transecto bajo, Ladera Izquierda"
+1894216405	Amazona oratrix	17.943333	-102.146667			Michoacan de ocampo	LAZARO CARDENAS		"Boca de San Francisco, 6km E Lázaro Cárdenas"
+1894216404	Amazona oratrix	18.274722	-103.328333			Michoacan de ocampo	AQUILA		"36km SSE Aquila, Maruata, Barranca de Amador"
+1894216394	Amazona oratrix	18.3475	-103.46			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transeco Bajo Derecho"
+1894216393	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216391	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216387	Amazona oratrix	18.311667	-103.402222			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Bajo, Ladera Derecha"
+1894216386	Amazona oratrix	18.343056	-103.451389			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transecto bajo planicie"
+1894216380	Amazona oratrix	18.275	-103.35			Michoacan de ocampo	AQUILA		"Barranca Chacalapa, 10 km N Maruata"
+1894216379	Amazona oratrix	18.340278	-103.450556			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transecto Bajo Izquierdo"
+1894216378	Amazona oratrix	18.341667	-103.358333			Michoacan de ocampo	AQUILA		"Barranca de Las Campanas, 8 km N Maruata"
+1894216377	Amazona oratrix	18.341667	-103.358333			Michoacan de ocampo	AQUILA		"Barranca de Las Campanas, 8 km N Maruata"
+1894216375	Amazona oratrix	18.319722	-103.395833			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Alto, Ladera Derecha"
+1894216373	Amazona oratrix	18.35	-103.440556			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transecto Alto Derecho"
+1894216369	Amazona oratrix	18.274722	-103.328333			Michoacan de ocampo	AQUILA		"36km SSE Aquila, Maruata, Barranca de Amador"
+1894216364	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216357	Amazona oratrix	18.306389	-103.398333			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Bajo planicie"
+1894216356	Amazona oratrix	18.25	-103.241667			Michoacan de ocampo	AQUILA		"Río Cachán, Sierra Madre"
+1894216351	Amazona oratrix	18.317222	-103.395			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Alto, Ladera Derecha"
+1894216350	Amazona oratrix	18.320833	-103.397222			Michoacan de ocampo	AQUILA		"Río Colola, Transecto Alto, Ladera Derecha"
+1894216347	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216346	Amazona oratrix	18.341111	-103.448889			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transecto bajo planicie"
+1894216345	Amazona oratrix	18.093889	-102.783333			Michoacan de ocampo	LAZARO CARDENAS		"Mich., Mpio. Lázaro Cárdenas, Río Nexpa, 63.5km ONO Lázaro Cárdenas"
+1894216335	Amazona oratrix	18.344722	-103.4525			Michoacan de ocampo	AQUILA		"Río Motín del Oro, Transecto bajo planicie"
+1894216331	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1894216328	Amazona oratrix	18.25	-103.241667			Michoacan de ocampo	AQUILA		"Río Cachán, Sierra Madre"
+1894216327	Amazona oratrix	18.269722	-103.346667			Michoacan de ocampo	AQUILA		"Mpio. Aquila, Mich. Maruata, 36.4km SSE Aquila"
+1893921768	Amazona oratrix	23.801917	-97.892194			Tamaulipas	SOTO LA MARINA		"Laguna La Sal, Salinas de San Enrique, 1 Km al este del Ejido Vista Hermosa"
+1890054234	Amazona oratrix	18.309979	-92.46844			Tabasco			
+166523200	Amazona oratrix	21.63082	-99.22966			Querétaro	Jalpan de Serra		Huasteca Secreta
+1571176386	Amazona oratrix	25.63928	-100.376256			Nuevo León			
+1453430615	Amazona oratrix	22.022869	-100.910573			San Luis Potosí			
+1453390749	Amazona oratrix	22.067209	-98.912916			San Luis Potosí			
+1453210845	Amazona oratrix	21.937907	-98.804793			San Luis Potosí			
+144668918	Amazona oratrix					Hidalgo			
+143823996	Amazona oratrix								
+143823806	Amazona oratrix	15.983	-97.717			Oaxaca			Parque Nal Lagunas de Chacahua
+143823805	Amazona oratrix	15.983	-97.717			Oaxaca			Parque Nal Lagunas de Chacahua
+143823804	Amazona oratrix	15.983	-97.717			Oaxaca			Parque Nal Lagunas de Chacahua
+143823292	Amazona oratrix	16.451	-94.63			Oaxaca			"Santo Domingo Zanatepec: 150 m Rio Zapote, Rancho Chepenegro"
+1418263216	Amazona oratrix	19.500278	-105.046111			Jalisco	ZAPOTLANEJO		Estación de Biología Chamela-Cuixmala. Distancia: 5000
+1291989380	Amazona oratrix oratrix					fix_me	Western Mexico		unknown
+1291104415	Amazona oratrix	25.634435	-100.297652			Nuevo León			
+1211989967	Amazona oratrix	19.563112	-99.16459			Distrito Federal			
+1205927433	Amazona oratrix	18.930008	-99.215744			Morelos	Cuernavaca		MX/Mor- Cuernavaca- Vista Hermosa
+1171648008	Amazona oratrix	25.41701	-101.002335			Coahuila	Saltillo		Museo de las Aves de México
+1132411287	Amazona oratrix	18.600821	-91.874597			Campeche			
+1098908783	Amazona oratrix	25.763211	-100.365647			Nuevo León			
+1088925396	Amazona oratrix	17.699842	-88.545839			Belize			
+1065586827	Amazona oratrix	18.71206	-91.978764			Campeche			
+1065584014	Amazona oratrix	23.262733	-106.514899			Sinaloa			
+1065582930	Amazona oratrix	23.260453	-106.505663			Sinaloa			
+1065577043	Amazona oratrix	23.393596	-106.419193			Sinaloa			
+1042823000	Amazona oratrix	18.242149	-92.585651			Tabasco			
