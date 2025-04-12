@@ -1,6 +1,6 @@
-# Trabajo-final-Bases-ecologicas-genomicas
+# Trabajo-final-Bases-ecológicas-genómicas
 # Cómo el modelado de nicho ecológico histórico puede ayudar a explicar la variación genética en las poblaciones del loro cabeza amarilla (*Amazona oratrix*)
-Se analiza la paleodistribución desde el Último Inter glacial al Presente en las poblaciones mexicanas de Amazona oratrix, empleando datos de avistamiento y capas bioclimáticas de worldclim en el periódo de 1970 al 2000.
+Se analiza la paleodistribución desde el Último Inter glacial al Presente en las poblaciones mexicanas de *Amazona oratrix*, empleando datos de avistamiento y capas bioclimáticas de worldclim en el periódo de 1970 al 2000.
 
 # **Introducción** 
 El loro cabeza amarilla (*Amazona oratrix*) es una especie de psitácido que se distribuye en un conjunto de poblaciones alopátricas desde Méxio a Honduras. A lo largo de su distribución se reconocen seis subespecies, cada una de las cuales está asentada en diferentes tipos de vegetación (Howell & Webb, 1995; Fig. 1). 
