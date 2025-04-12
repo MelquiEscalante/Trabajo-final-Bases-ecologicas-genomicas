@@ -20,9 +20,8 @@ bioclim <- worldclim_global(var = "bio", res = 2.5, path = "worldclim_data")
 # Mostrar información del raster
 print(bioclim)
 
-
 # -------------   RECORTAR LAS 19 CAPAS DE WORLDCLIM USANDO UN SHAPEFILE ---------------
-
+#Instalar paquetes
 library(terra)
 library(dismo)
 
