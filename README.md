@@ -48,6 +48,8 @@ A partir de 224 registros de avistamientos para el Golfo de México, y 229 para 
 
 **Fig. 4** Variables ambientales que más contribuyen al modelado del nicho ecológico en el presente para las A) Poblaciones del Golfo de México y B) Para las poblaciones del Pacífico.
 
+Con respecto a los resultados obtenidos sobre las estimaciones de la paleodistribución en las poblaciones del Golfo de México
+
 Los resultados obtenidos, así como las carpetas de las variables bioclimáticas empleadas y datos de avistamientos pueden ser observados a través de la siguiente liga en GoogleDrive ()
 
 
