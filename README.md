@@ -46,7 +46,7 @@ A partir de 224 registros de avistamientos para el Golfo de México, y 229 para 
 
 <img src="https://github.com/user-attachments/assets/a452c722-b979-4442-88ea-7fecc55b678b" alt="Demo" width="800"/>
 
-**Fig. 4** Variables abientales que más contribuyen al modeado del nicho ecológico en el presente, A) Poblaciones del Golfo de México y B) Para las poblaciones del Pacífico.
+**Fig. 4** Variables ambientales que más contribuyen al modelado del nicho ecológico en el presente para las A) Poblaciones del Golfo de México y B) Para las poblaciones del Pacífico.
 
 Los resultados obtenidos, así como las carpetas de las variables bioclimáticas empleadas y datos de avistamientos pueden ser observados a través de la siguiente liga en GoogleDrive ()
 
