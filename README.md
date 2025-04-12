@@ -29,20 +29,25 @@ Reconstruir la distribución histórica a través del modelado de nicho ecológi
   3. Conocer las variables ambientales que más influyen en la distribución de ambos linajes.
 
 # **Metodología**
-  ## Descarga de capas de las variables ambientales de Worldclim
+  ### Descarga de capas de las variables ambientales de Worldclim
 Para el modelado de nicho histórico se descargaron las 19 variables ambientales de Wolrdclim con temporalidades de 1970 al 2000 a través de R, que representan las variables ambientales al PRESENTE, posteriormente estas fueron recortadas.
 De igual forma se descargaron las 19 variables ambientales para el Holoceno medio (hace 6,000 años), Último Máximo Glacial (hace 21,000 años) a 2.5 minutos de resolución y del Último Inter Glacial (hace 120,0000 a 140,000 años), con una resolución de 30 segundos. Todas estas variables ambientales fueron descargadas de la página de Worldclim (https://www.worldclim.org/data/bioclim.html), y posteriormente recortadas al tamaño de México usando un archivo shapefile.
-  ## Descarga de Avistamientos de GBIF
+  ### Descarga de Avistamientos de GBIF
 Los registros de avistamientos de esta especie en México, fueron descargados de la página de GBIF (https://www.gbif.org/es/occurrence/search?taxon_key=2479646), una vez descargados, estos fueron limpiados tanto en excel cmo QGIS para el periódo de 1970 al 2000, y posteriormente estos registros fueron separados en Pacífico y Golfo de México, agrupándose en dos grandes grupos siguiendo la estructura genética encontrada en el trabajo de Escalante-Vargas & Escalante-Pliego (En prensa; Fig. 2).
 
-  ## Análisis de reconstrucción del modelado de nicho ecológico al pasado
+  ### Análisis de reconstrucción del modelado de nicho ecológico al pasado
 Todos los análisis de hicieron en R por separado, por un lado se realizaron reconstrucciones de las más probables áreas de idoneidad al último Inter Glacial, Último Máximo Glacial, Holoceno Medio y Presente para las poblaciones del Golfo de México y se estimó, para el presente cuales eran las ocho variables que más influyen en el nicho ecológico de estas poblaciones. Estos mismos análisis fueron realizados para las poblaciones del Pacífico. 
 De igual forma, para cada uno de los mapas obtenidos, en estas cuatro temporalidades, se determinaron la cobertura en Km2 de la ocupación del nicho tanto para el Golfo de México como para el Pacífico. Esto se realizó para conocer como cambiaba la extensión del nicho a lo largo del tiempo y ver si a traves de estos cambios se podría inferir si estos tuvieron efectos que expliquen los patrones de estructura al interior de cada linaje (Pacífico y Golfo de México) ilustrados en la Gif 2.
 
 Todos los análisis previamente descritos fueron desarrollados en R, y algunos mapas editados en QGIS. El scrip completo empleado en R está anexo en este repositorio (https://github.com/MelquiEscalante/Trabajo-final-Bases-ecologicas-genomicas/blob/main/Scrip%20trabajo%20final.R) y puede ser reproducido cambiando las rutas particulares de tu equipo de computo, igual dependerá de la capacidad de tu máquina, ya que la mía tiene poca, solo realicé una réplica, aunque los análisi fueron también corridos independiente en el software MaxEnt para comprobar los resultados obtenidos en R.
 
-
 # Resultados
+
+Los resultados obtenidos, así como las carpetas de las variables bioclimáticas empleadas y datos de avistamientos pueden ser observados a través de la siguiente liga en GoogleDrive ()
+
+
+
+
 
 
 # Conclusión 
