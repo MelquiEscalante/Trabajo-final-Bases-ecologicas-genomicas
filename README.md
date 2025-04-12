@@ -17,7 +17,7 @@ A pesar de esta caracteristica, de que esta especie ocupa una amplia variedad de
 
 <img src="https://github.com/user-attachments/assets/23792b5d-7b2c-4d95-8b5e-3da7f66755c6" alt="Demo" width="700"/>
 
-**Fig. 3** Tipos de vegetación encontrados sobre la distribucion de las poblaciones mexicanas de *A. oratrix*. A) Selvas secas caducifolias encontradas sobre la vertiente del Pacífico, siendo esta la vegetación dominante en esta provincia biótica. B) Selvas tropicales húmedas sobre la vertiente del Golfo de México. 
+**Fig. 3** Tipos de vegetación encontrados sobre la distribución de las poblaciones mexicanas de *A. oratrix*. A) Selvas secas caducifolias y subcaducifolias encontradas sobre la vertiente del Pacífico, siendo esta la vegetación dominante en esta provincia biótica. B) Selvas tropicales húmedas sobre la vertiente del Golfo de México. 
 
 # **Objetivos**
 
