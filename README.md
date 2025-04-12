@@ -33,7 +33,12 @@ Reconstruir la distribución histórica a través del modelado de nicho ecológi
 Para el modelado de nicho histórico se descargaron las 19 variables ambientales de Wolrdclim con temporalidades de 1970 al 2000 a través de R, que representan las variables ambientales al PRESENTE, posteriormente estas fueron recortadas.
 De igual forma se descargaron las 19 variables ambientales para el Holoceno medio (hace 6,000 años), Último Máximo Glacial (hace 21,000 años) a 2.5 minutos de resolución y del Último Inter Glacial (hace 120,0000 a 140,000 años), con una resolución de 30 segundos. Todas estas variables ambientales fueron descargadas de la página de Worldclim (https://www.worldclim.org/data/bioclim.html), y posteriormente recortadas al tamaño de México usando un archivo shapefile.
   ## Descarga de Avistamientos de GBIF
-Los registros de avistamientos de esta especie en México, fueron descargados de la página de GBIF (https://www.gbif.org/es/occurrence/search?taxon_key=2479646), una vez descargados, estos fueron limpiados para el peródo de 1970 al 2000, y posteriormente estos fueron separados en Pacífico y Golfo de México, agrupándose en dos grandes grupos siguiendo la estructura genética encontrada en el trabajo de Escalante-Vargas & Escalante-Pliego (En prensa; Fig. 2).
+Los registros de avistamientos de esta especie en México, fueron descargados de la página de GBIF (https://www.gbif.org/es/occurrence/search?taxon_key=2479646), una vez descargados, estos fueron limpiados tanto en excel cmo QGIS para el periódo de 1970 al 2000, y posteriormente estos registros fueron separados en Pacífico y Golfo de México, agrupándose en dos grandes grupos siguiendo la estructura genética encontrada en el trabajo de Escalante-Vargas & Escalante-Pliego (En prensa; Fig. 2).
+
+
+
+
+
 
 # Resultados
 
