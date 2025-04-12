@@ -39,7 +39,7 @@ Los registros de avistamientos de esta especie en México, fueron descargados de
 Todos los análisis de hicieron en R por separado, por un lado se realizaron reconstrucciones de las más probables áreas de idoneidad al último Inter Glacial, Último Máximo Glacial, Holoceno Medio y Presente para las poblaciones del Golfo de México y se estimó, para el presente cuales eran las ocho variables que más influyen en el nicho ecológico de estas poblaciones. Estos mismos análisis fueron realizados para las poblaciones del Pacífico. 
 De igual forma, para cada uno de los mapas obtenidos, en estas cuatro temporalidades, se estimó la cobertura en Km2 de la ocupación del nicho tanto para el Golfo de México como para el Pacífico considerando los pixeles ocupados en las proyecciones de idoneidad de cada mapa, en este sentido, se consideró que cada píxel tiene una superficie aproximada de 4.625 km × 4.625 km ≈ 21.4 km² en el ecuador, para el cálculo del área ocupada se consideró un humbral de presencia de 0.4 a 1 y a partir de esta consideración y del mapa generado en formato .asc se realizó el cálculo de la siguiente forma:
 
-´´´r 
+```r
 # Definir un umbral para considerar "presencia"
 umbral <- 0.4 
 
@@ -64,7 +64,7 @@ area_ocupada_km2 <- num_pixeles_presencia * area_pixel_km2
 
 # Mostrar el resultado
 print(paste("El área ocupada es de", round(area_ocupada_km2, 2), "km²"))
-´´´´
+```
 
 
 
