@@ -37,7 +37,7 @@ Los registros de avistamientos de esta especie en México, fueron descargados de
 
 
 
-Todos los análisis previamente descritos fueron desarrollados en R usando MaxEnt, y algunos mapas editados en QGIS. El scrip completo empleado en R está anexo en este repositorio () y puede ser reproducido cambiando las rutas particulares de tu equipo de computo.
+Todos los análisis previamente descritos fueron desarrollados en R usando MaxEnt, y algunos mapas editados en QGIS. El scrip completo empleado en R está anexo en este repositorio (https://github.com/MelquiEscalante/Trabajo-final-Bases-ecologicas-genomicas/blob/main/Scrip%20trabajo%20final.R) y puede ser reproducido cambiando las rutas particulares de tu equipo de computo, igual dependerá de la capacidad de tu máquina, ya que la mía tiene poca solo realicé una réplica.
 
 
 # Resultados
