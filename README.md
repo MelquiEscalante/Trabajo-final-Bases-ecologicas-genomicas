@@ -32,8 +32,33 @@ Reconstruir la distribución histórica a través del modelado de nicho ecológi
   ### Descarga de capas de las variables ambientales de Worldclim
 Para el modelado de nicho histórico se descargaron las 19 variables ambientales de Wolrdclim con temporalidades de 1970 al 2000 a través de R, que representan las variables ambientales al PRESENTE, posteriormente estas fueron recortadas.
 De igual forma se descargaron las 19 variables ambientales para el Holoceno medio (hace 6,000 años), Último Máximo Glacial (hace 21,000 años) a 2.5 minutos de resolución y del Último Inter Glacial (hace 120,0000 a 140,000 años), con una resolución de 30 segundos. Todas estas variables ambientales fueron descargadas de la página de Worldclim (https://www.worldclim.org/data/bioclim.html), y posteriormente recortadas al tamaño de México usando un archivo shapefile.
+
+```r
+# ----- Script para descargar variables bioclimáticas de Worldclim, en este caso es para el Holoceno medio con resolución de 2.5 minutos -----------
+
+install.packages(c("geodata", "archive"))
+library(geodata)
+library(archive)
+
+#Configurar el directorio de trabajo
+setwd("D:/TRABAJOFINAL/CapasBioclimáticas/HOLOCENOMED")
+
+# Definir directorio de descarga
+dir.create("D:/TRABAJOFINAL/CapasBioclimáticas/HOLOCENOMED", showWarnings = FALSE)
+
+# Descargar datos del Holoceno de WorldClim v1.4 con resolución de 2.5 minutos  
+download.file("https://geodata.ucdavis.edu/climate/cmip5/mid/memidbi_2-5m.zip",    # agrega la direccion URL del periódo del cuál quieras descargar las capas de Worldclim
+              destfile = "bio_Holoceno.zip", mode = "wb")
+
+# Extraer archivos
+archive::archive_extract("bio_Holoceno.zip", dir = "Holoceno-medio")
+
+# Listar archivos extraídos
+list.files("Holoceno-medio")
+```
+
   ### Descarga de Avistamientos de GBIF
-Los registros de avistamientos de esta especie en México, fueron descargados de la página de GBIF (https://www.gbif.org/es/occurrence/search?taxon_key=2479646), una vez descargados, estos fueron limpiados tanto en excel cmo QGIS para el periódo de 1970 al 2000, y posteriormente estos registros fueron separados en Pacífico y Golfo de México, agrupándose en dos grandes grupos siguiendo la estructura genética encontrada en el trabajo de Escalante-Vargas & Escalante-Pliego (En prensa; Fig. 2).
+Los registros de avistamientos de esta especie en México, fueron descargados de la página de GBIF (https://www.gbif.org/es/occurrence/search?taxon_key=2479646) directamente, una vez descargados, estos fueron limpiados tanto en excel cmo QGIS para el periódo de 1970 al 2000, y posteriormente estos registros fueron separados en Pacífico y Golfo de México, agrupándose en dos grandes grupos siguiendo la estructura genética encontrada en el trabajo de Escalante-Vargas & Escalante-Pliego (En prensa; Fig. 2).
 
   ### Análisis de reconstrucción del modelado de nicho ecológico al pasado
 Todos los análisis de hicieron en R por separado, por un lado se realizaron reconstrucciones de las más probables áreas de idoneidad al último Inter Glacial, Último Máximo Glacial, Holoceno Medio y Presente para las poblaciones del Golfo de México y se estimó, para el presente cuales eran las ocho variables que más influyen en el nicho ecológico de estas poblaciones. Estos mismos análisis fueron realizados para las poblaciones del Pacífico. 
@@ -89,21 +114,14 @@ Con relacion a las poblaciones del Pacífico, la reconstruccion al Último Inter
 
 **Fig. 6** Modelado de nicho ecológico histórico para las poblaciones de loros cabeza amarilla (*A. oratrix*) del Pacífico. A) Último Inter Glacial, B) Último Máximo Glacial, C) Holoceno Medio y D) Presente.
 
-Sin embargo estas estimaciones son aproximadas ya que es necesario considerar que estas distribuciones históricas pudieron verse tambien modificadas por las interacciones con otros organismos, la presencia de barreras geográficas que pudieron tambien limitado la distribucion de la especie. En el presente ocurre lo mismo, sin embargo aqui hay que considerar las presiones adicionales de captura para el tráfico ilegal y las altas tasas de deforestación que reducen aún más las poblaciones remanentes de loros cabeza amarilla en ambas vertientes.
-
-Los resultados obtenidos, así como las carpetas de las variables bioclimáticas empleadas y datos de avistamientos pueden ser obtenidos a través de la siguiente liga en GoogleDrive (https://drive.google.com/drive/folders/13u68j6d2qWzaFyhPyfKJrc0PxX93cqcC?usp=drive_link).
-
-
-
-
-
-
 # Conclusión 
 - En las poblaciones del Pacífico, la evolución del nicho parece incrementarse ligeramente desde el UIG, pero siempre ocupando un área menor que su poblacion vecina del Golfo. Estos ligeros incrementos podrían deberse a que los cambios ambientales ocurridos en el pasado, como los de temperatura y precipitación, probablemente propiciaron que nuevas áreas fueran idóneas para colonizar nuevos nichos disponibles para estas poblaciones de loros cabeza amarilla. Sin embargo, estas han ocupado, desde el UIG, un área de idoneidad restringida a una franja estrecha a las tierras bajas de la vertiente del mismo nombre.
 - En el Golfo de México, las poblaciones parecen haber experimentado una expansion considerable ocurrida en el UMG. En todos los escenarios, este linaje ocupa una region de áreas idoneas de distribucion superior a la del Pacífico, posiblemente debido a que estas poblaciones ocupan gran parte de las tierras bajas de la llanura costera del Golfo, la cual es mucho más extensa que las tierras bajas de la vertiente del Pacífico. La expansion ocurrida durante el UMG en el Golfo, la cual casi triplica la expansión experimentada en el Pacífico para la misma temporalidad, se debe posiblemente a que por un lado, el desenso del mar dejó al descubierto porciones de tierras bajas que antes estaban sumergidas y la que ahora proporcionaron nuevos espacios disponibles para colonizar por este linaje de loros, loq ue les permitió ampliar sus nichos ecológicos. Por otro lado, es probable que los cambios de tempratura y precipitación del UMG, hayan beneficiado a que cierta regiones más al norte y al Sur de México fueron idóneas para aumentar la distribucion geográfica de estas poblaciones.
 - Considerando las extenciones en km² estimadas para las poblaciones del Pacífico desde el Último Inter Glacial al Presente, podemos deducir que probablemente el reducido tamaño del nicho ecológico ocupado en este linaje (en comparación con el Golfo de México) ha mantenido tamaños poblacionales pequeños, por lo que podemos deducir que posiblemente en estas poblaciones los efectos de la deriva genética pudieron ser quizá mas fuertes, manteniendo bajos niveles de variación genética mitocondrial (Crow & Kimura, 1970; Hedrick, 2011) lo queha resultado en un haplogrupo con muy pocos haplotipos (Fig. 2). Respecto al Golfo de México, el haplogrupo en forma de estrella encontrado para estas poblaciones (Fig. 2), indica una expansion poblacional en tiempos relativamente recientes (Bandelt et al. 1995; Excoffier et al. 2009), por lo que, dicho patrón recuperado podría ser el resultado del proceso de expansión de hace ~20 a ~11 mil años ocurrido durante el UMG.
-- A través del análisis de las 19 variables ambientales para el modelado de nicho ecológico (MNE) en ambos linajes, podemos concluir que, ambos han sido moldeadas principalmente por temperaturas y precipitaciones. A pesar de lo anterior, cuando se realiza el MNE de una (Por ejemplo para el Pacífico), en la región contraparte (Golfo de México) no se encuentran las mismas condiciones ambientales para que la primera pueda estar presente. Por lo que el orden de contribución de las variables sí influye en la distribución de las poblaciones.
-- De forma general se concluye que considerando 
+- A través del análisis de las 19 variables ambientales para el modelado de nicho ecológico (MNE) en ambos linajes en el presente, podemos concluir que, ambos han sido moldeadas principalmente por temperaturas y precipitaciones. A pesar de lo anterior, cuando se realiza el MNE de una (Por ejemplo para el Pacífico), en la región contraparte (Golfo de México) no se encuentran las mismas condiciones ambientales para que la primera pueda estar presente. Por lo que el orden de contribución de las variables sí influye en la distribución de las poblaciones.
+- De forma general se concluye tentativamente que, estos linajes presentan una evolución de nicho histórica distinta, las cuales se vieron modificadas por los cambios ambientales al menos desde el UIG al presente. Sin embargo estas conclusiones son aproximadas ya que es necesario considerar que estas distribuciones históricas pudieron verse tambien modificadas por las interacciones con otros organismos, la presencia de barreras geográficas que pudieron tambien limitado la distribucion de la especie. En el presente ocurre lo mismo, sin embargo, aqui hay que considerar las presiones adicionales de captura para el tráfico ilegal y las altas tasas de deforestación que reducen aún más las poblaciones remanentes de loros cabeza amarilla en ambas vertientes.
+
+Los resultados obtenidos, así como las carpetas de las variables bioclimáticas empleadas y datos de avistamientos pueden ser obtenidos a través de la siguiente liga en GoogleDrive (https://drive.google.com/drive/folders/13u68j6d2qWzaFyhPyfKJrc0PxX93cqcC?usp=drive_link).
 
 # Bibliografía
 - Bandelt, H.J., Forster, P., Sykes, B. C. & Richards, M. B. (1995). Mitochondrial portraits of human populations using median networks. *Genetics*, 141 (2), 743–753.
