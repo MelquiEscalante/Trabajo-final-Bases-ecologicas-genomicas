@@ -29,7 +29,7 @@ Reconstruir la distribución histórica a través del modelado de nicho ecológi
   3. Conocer las variables ambientales que más influyen en la distribución de ambos linajes.
 
 # **Metodología**
-Para el análisis de modelación de nicho histórico se descargaron las 19 variables ambientales de Wolrdclim con temporalidades de 1970 al 2000 a través de R, que representan las variables ambientales al PRESENTE, posteriormente estas fueron recortadas.
+Para el modelado de nicho histórico se descargaron las 19 variables ambientales de Wolrdclim con temporalidades de 1970 al 2000 a través de R, que representan las variables ambientales al PRESENTE, posteriormente estas fueron recortadas.
 
 ```r
 # Descarga de las 19 variables ambientales de Worldclim de 1970 - 2000 a resolución 2.5 m.
@@ -57,8 +57,8 @@ print(bioclim)
 
 
 # Conclusión 
-- En las poblaciones del Pacífico, la evolución del nicho parece ser estable, sin expansiones, ni contracciones considerables desde el UIG. En el Golfo de México, las poblaciones parecen haber experimentado una expansion considerable ocurrida en el UMG. Comparando ambos nichos, el Pacífico parece mantener, en las proyecciones, el nicho parece estar restringido siempre a la costa, siente este muy estrecho, en comparación con el Golfo de México, donde las poblaciones parecen ocupar gran parte de la planicie costera.
-
+- En las poblaciones del Pacífico, la evolución del nicho parece ser estable, sin expansiones, ni contracciones considerables desde el UIG. En el Golfo de México, las poblaciones parecen haber experimentado una expansion considerable ocurrida en el UMG. Comparando ambos nichos, el Pacífico parece mantener, en las proyecciones, un nicho restringido siempre a la costa, siendo este muy estrecho, en comparación con el Golfo de México, donde las poblaciones parecen ocupar gran parte de la planicie costera.
+- Considerando las extenciones en Km2 estimadas para las poblaciones del Pacífico desde el Último Inter Glacial al Presente, podemos deducir que probablemente el tamaño del nicho ecológico ocupado en este linaje ha mantenido tamaños poblacionales pequeños, por lo que los efectos de la deriva pudieron ser quizá mas fuertes, manteniendo bajos niveles de variación genética mitocondrial (Crow & Kimura, 1970; Hedrick, 2011), que es lo que se ha recuperado para este linaje en el trabajo de Escalante-Vargas & Escalante-Pliego (En prensa). Respecto a las poblaciones del Golfo de México, el haplogrupo en forma de estrella, encontrado en el trabajo previamente citado de Escalante-Vargas, indica una expansion poblacional en timepos recientes (Bandelt et al. 1995; Excoffier et al. 2009), por lo que, dicho patrón recuperado podría ser el resultado del proceso de expansión de hace ~20 a ~11 mil años.
 - Ambas distribuciones han sido moldeadas principalmente por temperaturas y precipitaciones. A pesar de lo anterior, cuando se realiza el MNE de una, en la región contraparte no se encuentran las mismas condiciones para que la primera pueda estar presente. Por lo que el orden de contribución de las variables sí influye en la distribución de las poblaciones.
 
 # Bibliografía
