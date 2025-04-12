@@ -73,7 +73,7 @@ Todos los análisis previamente descritos fueron desarrollados en R, y algunos m
 # Resultados
 A partir de 224 registros de avistamientos para el Golfo de México, y 229 para las poblaciones del Pacífico, se encontró que las tres variables ambientales que más contribuyen al modelado de nicho ecológico en el presente para las poblaciones del Golfo de México fueron la Bio14 (precipitación del mes más seco), Bio2 (rango medio diurno de temperatura) y Bio6 (temperatura mínima del mes más frío) las cuales aportan un poco más del 62% (Fig. 4) al modelado de nicho. Por su parte, para las poblaciones del Pacífico, las tres variables más importantes fueron la Bio 11 (Temperatura media del trimestre más frío), Bio4 (Estacionalidad de la temperatura) y la Bio15 (Estacionalidad de la precipitación), las cuales aportanron al modelado más del 66% (Fig. 4). 
 
-<img src="https://github.com/user-attachments/assets/a452c722-b979-4442-88ea-7fecc55b678b" alt="Demo" width="800"/>
+<img src="https://github.com/user-attachments/assets/a452c722-b979-4442-88ea-7fecc55b678b" alt="Demo" width="600"/>
 
 **Fig. 4** Variables ambientales que más contribuyen al modelado del nicho ecológico en el presente para las A) Poblaciones del Golfo de México y B) Para las poblaciones del Pacífico.
 
@@ -81,9 +81,11 @@ Con respecto a los resultados obtenidos sobre las estimaciones de paleodistribuc
 
 ![mapa_golfo](https://github.com/user-attachments/assets/e63676e8-f522-4813-afa1-f672704c1551)
 
-**Fig. 5** Modelado de nicho ecológico histórico para las poblaciones de loros cabeza amarilla (*A. oratrix*) del Golfo de México. A) Último Inter Glacial, B)Último Máximo Glacial, C) Holoceno Medio y D) Presente.
+**Fig. 5** Modelado de nicho ecológico histórico para las poblaciones de loros cabeza amarilla (*A. oratrix*) del Golfo de México. A) Último Inter Glacial, B) Último Máximo Glacial, C) Holoceno Medio y D) Presente.
 
-Sin embargo estas estimaciones son aproximadas ya que es necesario considerar que estas distribuciones hostóricas pudieron verse tambien modificadas por las interacciones con otros organismos, la presencia de barreras geográficas que pudieron tambien limitado la distribucion de la especie. En el presente ocurre lo mismo, sin embargo aqui hay que considerar una presion adicional que son presiones de captura para el tráfico ilegal y las altas tasas de deforestación que reducen aún más las poblaciones remanentes de loros cabeza amarilla en ambas vertientes.
+
+
+Sin embargo estas estimaciones son aproximadas ya que es necesario considerar que estas distribuciones históricas pudieron verse tambien modificadas por las interacciones con otros organismos, la presencia de barreras geográficas que pudieron tambien limitado la distribucion de la especie. En el presente ocurre lo mismo, sin embargo aqui hay que considerar una presion adicional que son presiones de captura para el tráfico ilegal y las altas tasas de deforestación que reducen aún más las poblaciones remanentes de loros cabeza amarilla en ambas vertientes.
 
 Los resultados obtenidos, así como las carpetas de las variables bioclimáticas empleadas y datos de avistamientos pueden ser observados a través de la siguiente liga en GoogleDrive ()
 
