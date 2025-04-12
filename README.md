@@ -53,6 +53,13 @@ print(bioclim)
 # Recortar estas 19 variables ambientales usando un shapefile de México.
 ```
 
+# Resultados
+
+
+# Conclusión 
+- En las poblaciones del Pacífico, la evolución del nicho parece ser estable, sin expansiones, ni contracciones considerables desde el UIG. En el Golfo de México, las poblaciones parecen haber experimentado una expansion considerable ocurrida en el UMG. Comparando ambos nichos, el Pacífico parece mantener, en las proyecciones, el nicho parece estar restringido siempre a la costa, siente este muy estrecho, en comparación con el Golfo de México, donde las poblaciones parecen ocupar gran parte de la planicie costera.
+
+- Ambas distribuciones han sido moldeadas principalmente por temperaturas y precipitaciones. A pesar de lo anterior, cuando se realiza el MNE de una, en la región contraparte no se encuentran las mismas condiciones para que la primera pueda estar presente. Por lo que el orden de contribución de las variables sí influye en la distribución de las poblaciones.
 
 # Bibliografía
 - Escalante-Pliego, P., Navarro-Sigüenza, A.G. & Peterson, A.T. (1993). A geographic, Ecological and historical analysis of land bird diversity in México. En Ramamoorthy, T.P., Bye, R. & Lot, L. (Eds). Biological diversity of México: origins and distribution. (pp. 281−307). Oxford Univ. Press.
