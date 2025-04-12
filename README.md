@@ -77,7 +77,13 @@ A partir de 224 registros de avistamientos para el Golfo de México, y 229 para 
 
 **Fig. 4** Variables ambientales que más contribuyen al modelado del nicho ecológico en el presente para las A) Poblaciones del Golfo de México y B) Para las poblaciones del Pacífico.
 
-Con respecto a los resultados obtenidos sobre las estimaciones de la paleodistribución en las poblaciones del Golfo de México, se recuperó que para el Último Inter Glacial 
+Con respecto a los resultados obtenidos sobre las estimaciones de paleodistribución en las poblaciones del Golfo de México, se recuperó que para el Último Inter Glacial, hace ~140,000 a ~120,0000 años, el nicho ecológico histórico para estas poblaciones en esta área geográfica ocupaba una probable extención de 37,197.87 km² (Fig. 5A), mientras que para el Último Máximo Glacial, la extension pudo haber aumentado a 68,154.42 km² (Fig. 5B), lo que representa un aumento del ~83%, sin embargo hace ~6,000 años, en el Holoceno medio, esta extencion probablemente pudo haberse reducido en un 37%, por lo que la cobertura con condiciones ambientales favorables para la presencia de estas poblaciones pudo haberse contraido a ~42,908.12 km² (Fig.5C). Para el presente, esta última estimación posiblemente se redujo hasta quedar en 39,133.8 km² (reduccion del 8.8 %). 
+
+![mapa_golfo](https://github.com/user-attachments/assets/e63676e8-f522-4813-afa1-f672704c1551)
+
+**Fig. 5** Modelado de nicho ecológico histórico para las poblaciones de loros cabeza amarilla (*A. oratrix*) del Golfo de México. A) Último Inter Glacial, B)Último Máximo Glacial, C) Holoceno Medio y D) Presente.
+
+Sin embargo estas estimaciones son aproximadas ya que es necesario considerar que estas distribuciones hostóricas pudieron verse tambien modificadas por las interacciones con otros organismos, la presencia de barreras geográficas que pudieron tambien limitado la distribucion de la especie. En el presente ocurre lo mismo, sin embargo aqui hay que considerar una presion adicional que son presiones de captura para el tráfico ilegal y las altas tasas de deforestación que reducen aún más las poblaciones remanentes de loros cabeza amarilla en ambas vertientes.
 
 Los resultados obtenidos, así como las carpetas de las variables bioclimáticas empleadas y datos de avistamientos pueden ser observados a través de la siguiente liga en GoogleDrive ()
 
