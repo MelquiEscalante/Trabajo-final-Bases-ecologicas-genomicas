@@ -83,11 +83,15 @@ Con respecto a los resultados obtenidos sobre las estimaciones de paleodistribuc
 
 **Fig. 5** Modelado de nicho ecológico histórico para las poblaciones de loros cabeza amarilla (*A. oratrix*) del Golfo de México. A) Último Inter Glacial, B) Último Máximo Glacial, C) Holoceno Medio y D) Presente.
 
+Con relacion a las poblaciones del Pacífico, la reconstruccion al Último Inter Glacial mostró que es probable que este linaje ocupara una reducida área restringida a la costa de esta vertiente, la cual pudo haber cubierto un área de ~18,110.26 km² (Fig.6A), sin embargo, para el Último Máximo Glacial, este nicho ecológico pudo haberse extendido a 23,918.53 km² aproximadamente, lo que representa un incremente del ~32% (Fig. 6B). Para el Holoceno medio (hace 6,000 años), la region de idoneidad para la distribución de estas poblaciones pudo haberse incrementado ligeramente en un 10.5% (a 26,438.34 km²; Fig. 6C), mientras que para el presente, considernado los resultados, posiblemente pudo haber un ligero aumento del 8.5%, lo que representa una cobertura de condiciones favorables para la presencia de la especie de 28,695.71 km² (Fig.6D).
 
+![mapa_pacífico](https://github.com/user-attachments/assets/c6a78580-d088-4b23-a67c-33684f4807a6)
+
+**Fig. 6** Modelado de nicho ecológico histórico para las poblaciones de loros cabeza amarilla (*A. oratrix*) del Pacífico. A) Último Inter Glacial, B) Último Máximo Glacial, C) Holoceno Medio y D) Presente.
 
 Sin embargo estas estimaciones son aproximadas ya que es necesario considerar que estas distribuciones históricas pudieron verse tambien modificadas por las interacciones con otros organismos, la presencia de barreras geográficas que pudieron tambien limitado la distribucion de la especie. En el presente ocurre lo mismo, sin embargo aqui hay que considerar una presion adicional que son presiones de captura para el tráfico ilegal y las altas tasas de deforestación que reducen aún más las poblaciones remanentes de loros cabeza amarilla en ambas vertientes.
 
-Los resultados obtenidos, así como las carpetas de las variables bioclimáticas empleadas y datos de avistamientos pueden ser observados a través de la siguiente liga en GoogleDrive ()
+Los resultados obtenidos, así como las carpetas de las variables bioclimáticas empleadas y datos de avistamientos pueden ser observados a través de la siguiente liga en GoogleDrive (https://drive.google.com/drive/folders/13u68j6d2qWzaFyhPyfKJrc0PxX93cqcC?usp=drive_link)
 
 
 
