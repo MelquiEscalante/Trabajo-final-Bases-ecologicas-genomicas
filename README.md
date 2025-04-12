@@ -51,6 +51,48 @@ bioclim <- worldclim_global(var = "bio", res = 2.5, path = "worldclim_data")
 print(bioclim)
 
 # Recortar estas 19 variables ambientales usando un shapefile de México.
+library(terra)
+library(dismo)
+
+# Definir rutas de entrada y salida
+raster_dir <- "D:/TRABAJOFINAL/CapasBioclimáticas/PRESENTE/worldclim_data/climate/wc2.1_2.5m/"  # Carpeta donde están las capas .tif
+output_dir <- "D:/TRABAJOFINAL/CapasBioclimáticas/PRESENTE/Recortadas"  # Carpeta donde se guardarán los archivos recortados
+shapefile_path <- "D:/TRABAJOFINAL/CapasBioclimáticas/MEX shapefile/mex_adm0.shp"  # Ruta del shapefile
+ 
+# Cargar el shapefile
+vector <- vect(shapefile_path)
+
+# Obtener la lista de archivos raster en la carpeta
+raster_files <- list.files(raster_dir, pattern = "\\.tif$", full.names = TRUE)
+
+# Iterar sobre cada capa raster y recortarla con el shapefile
+for (raster_path in raster_files) {
+  
+  # Cargar la capa raster
+  raster_layer <- rast(raster_path)
+  
+  # Asegurar que el shapefile tenga el mismo CRS que el raster
+  vector <- project(vector, crs(raster_layer))
+  
+  # Recortar el raster con el shapefile
+  raster_recortado <- crop(raster_layer, vector)  # Recorta la extensión  
+  raster_recortado <- mask(raster_recortado, vector)  # Aplica la máscara
+  
+  # Definir el nombre del archivo de salida
+  raster_name <- gsub("\\.tif$", "", basename(raster_path))  # Obtener el nombre sin extensión
+  output_path <- file.path(output_dir, paste0(raster_name, ".asc"))
+  
+  # Guardar el raster recortado en formato ASCII (.asc)
+  writeRaster(raster_recortado, output_path, filetype = "AAIGrid", overwrite = TRUE)
+  
+  # Mensaje de confirmación
+  cat("Guardado:", output_path, "\n")
+}
+
+# Nota: como todas las capas recortadas presentaban NA, estas se recortaron directamente en QGIS para evitar este problema con todos los recortes.
+
+raster_dir2 <- "D:/TRABAJOFINAL/CapasBioclimáticas/PRESENTE/Recortadas QGIS/"   # ruta  ala carpeta donde están las capas recortadas .asc
+
 ```
 
 # Resultados
