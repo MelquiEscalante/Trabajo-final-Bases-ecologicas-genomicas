@@ -42,6 +42,15 @@ De igual forma, para cada uno de los mapas obtenidos, en estas cuatro temporalid
 Todos los análisis previamente descritos fueron desarrollados en R, y algunos mapas editados en QGIS. El scrip completo empleado en R está anexo en este repositorio (https://github.com/MelquiEscalante/Trabajo-final-Bases-ecologicas-genomicas/blob/main/Scrip%20trabajo%20final.R) y puede ser reproducido cambiando las rutas particulares de tu equipo de computo, igual dependerá de la capacidad de tu máquina, ya que la mía tiene poca, solo realicé una réplica, aunque los análisi fueron también corridos independiente en el software MaxEnt para comprobar los resultados obtenidos en R.
 
 # Resultados
+A partir de 224 registros de avistamientos para el Golfo de México, y 229 para las poblaciones del Pacífico, se encontró que las tres variables ambientales que más contribuyen al modelado de nicho ecológico en el presente para las poblaciones del Golfo de México fueron la Bio14 (precipitación del mes más seco), Bio2 (rango medio diurno de temperatura) y Bio6 (temperatura mínima del mes más frío) las cuales aportan un poco más del 62% (Fig. 4) al modelado de nicho. Por su parte, para las poblaciones del Pacífico, las tres variables más importantes fueron la Bio 11 (Temperatura media del trimestre más frío), Bio4 (Estacionalidad de la temperatura) y la Bio15 (Estacionalidad de la precipitación), las cuales aportanron al modelado más del 66% (Fig. 4). 
+
+A)
+![top_8_variables](https://github.com/user-attachments/assets/eb1d7983-cb06-469b-842a-87ccfb6e8c5a)
+
+![top_8_variables](https://github.com/user-attachments/assets/aaef6cb9-1f81-4537-9d0c-d759badbdc07)
+
+B)
+**Fig. 4** Variables abientales que más contribuyen al modeado del nicho ecológico en el presente, A) Poblaciones del Golfo de México y B) para las poblaciones del Pacífico.
 
 Los resultados obtenidos, así como las carpetas de las variables bioclimáticas empleadas y datos de avistamientos pueden ser observados a través de la siguiente liga en GoogleDrive ()
 
